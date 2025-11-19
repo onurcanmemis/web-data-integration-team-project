@@ -1,0 +1,151 @@
+p_row_id,m_row_id,title_p,title_m,platform_p,platform_m,release_year_p,release_year_m,developer_p,developer_m,similarity,label
+playtime_11053,metacritic_2493,Monday Night Combat,Monday Night Combat,Xbox 360,Xbox 360,2010,2010,Uber Entertainment,Microsoft Game Studios,0.8875,1
+playtime_29663,metacritic_3810,Metro 2033 Redux,Metro Redux,PlayStation 4,PlayStation 4,2014,2014,4A Games,Deep Silver,0.881578947,0
+playtime_35644,metacritic_378,NBA 2K16,NBA 2K16,PlayStation 4,PlayStation 4,2015,2015,Visual Concepts,Take-Two Interactive,0.892857143,1
+playtime_24192,metacritic_4879,Deus Ex: Human Revolution - Director's Cut,Deus Ex: Human Revolution - Director's Cut,Wii U,Wii U,2013,2013,Eidos Montreal,Square Enix,0.91,1
+playtime_9362,metacritic_13468,Legendary,Legendary,PlayStation 3,PlayStation 3,2008,2008,Spark Unlimited,Gamecock Media Group,0.892857143,1
+playtime_45081,metacritic_7359,The Golf Club 2,The Golf Club 2,Xbox One,Xbox One,2017,2017,HB Studios,Maximum Games,0.876086957,1
+playtime_49535,metacritic_4504,Beat Saber,Beat Saber,PlayStation 4,PlayStation 4,2018,2018,Beat Games,Hyperbolic Magnetism,0.9,1
+playtime_3834,metacritic_8618,Dante's Inferno,Dante's Inferno,Xbox 360,Xbox 360,2010,2010,Visceral Games,Electronic Arts,0.89137931,1
+playtime_34459,metacritic_8108,J.U.L.I.A.: Among the Stars,J.U.L.I.A.: Among the Stars,PC,PC,2014,2014,CBE Software,Cardboard Box Entertainment,0.896153846,1
+playtime_61470,metacritic_7330,AO Tennis 2,AO Tennis 2,Xbox One,Xbox One,2020,2020,Big Ant Studios,Bigben Interactive,0.904545455,1
+playtime_55270,metacritic_9664,Void Bastards,Void Bastards,Xbox One,Xbox One,2019,2019,Blue Manchu,Humble Bundle,0.9125,1
+playtime_51169,metacritic_678,Little Nightmares - Complete Edition,Little Nightmares,Xbox One,Xbox One,2017,2017,Tarsier Studios,Bandai Namco Games,0.895454545,0
+playtime_7900,metacritic_9205,Headhunter,Headhunter,PlayStation 2,PlayStation 2,2002,2002,Amuze,Acclaim,0.9,1
+playtime_22105,metacritic_6893,Age of Empires II: HD Edition,Age of Empires II: HD Edition,PC,PC,2013,2013,Hidden Path Entertainment,Microsoft Game Studios,0.894680851,1
+playtime_5332,metacritic_7175,Dynasty Warriors 5: Xtreme Legends,Dynasty Warriors 5,PlayStation 2,PlayStation 2,2005,2005,Omega Force,Koei,0.863529412,1
+playtime_20596,metacritic_7352,Wet,Wet,Xbox 360,Xbox 360,2009,2009,Artificial Mind and Movement,Bethesda Softworks,0.882608696,1
+playtime_55916,metacritic_8663,Outriders,Outriders,PC,PC,2021,2021,People Can Fly,Square Enix,0.886,1
+playtime_6717,metacritic_6624,Fuel,Fuel,PC,PC,2009,2009,Asobo Studio,Codemasters,0.876086957,1
+playtime_27322,metacritic_10242,NFL Street 2,NFL Street 2,PlayStation 2,PlayStation 2,2004,2004,EA Sports BIG,EA Sports Big,0.976923077,1
+playtime_7448,metacritic_2843,Ground Control II: Operation Exodus,Ground Control II: Operation Exodus,PC,PC,2004,2004,Massive Entertainment,Sierra Entertainment,0.968181818,1
+playtime_46746,metacritic_736,Football Manager 2018,Football Manager 2018,PC,PC,2017,2017,Sports Interactive,SegaSoft,0.907692308,1
+playtime_42599,metacritic_1278,Cyber Shadow,Cyber Shadow,PlayStation 4,PlayStation 4,2021,2021,"Aarne ""MekaSkull"" Hunziker",Yacht Club Games,0.885714286,1
+playtime_1196,metacritic_3549,ATV Offroad Fury 2,ATV Offroad Fury 2,PlayStation 2,PlayStation 2,2002,2002,Rainbow Studios,SCEA,0.865789474,1
+playtime_49929,metacritic_8273,Earth Defense Force 4.1: Wingdiver The Shooter,Earth Defense Force 5,PlayStation 4,PlayStation 4,2018,2018,Clouds,D3Publisher,0.862794118,0
+playtime_12277,metacritic_3781,Outland,Outland,PlayStation 3,PlayStation 3,2011,2011,Housemarque,Ubisoft,0.866666667,1
+playtime_55222,metacritic_7143,Layers of Fear 2,Layers of Fear 2,PlayStation 4,PlayStation 4,2019,2019,Bloober Team,Gun Media,0.892857143,1
+playtime_34969,metacritic_10124,MX 2002,MX 2002 Featuring Ricky Carmichael,PlayStation 2,PlayStation 2,2001,2001,Pacific Coast Power & Light,THQ,0.85,0
+playtime_10377,metacritic_3690,MechWarrior 4: Mercenaries,MechWarrior 4: Mercenaries,PC,PC,2002,2002,FASA Studio,Microsoft Game Studios,0.913636364,1
+playtime_17365,metacritic_11918,Superman: Shadow of Apokolips,Superman: Shadow of Apokolips,PlayStation 2,PlayStation 2,2002,2002,Infogrames,Atari,0.87,1
+playtime_4543,metacritic_2885,Disgaea 4: A Promise Unforgotten,Disgaea 4: A Promise Unforgotten,PlayStation 3,PlayStation 3,2011,2011,Nippon Ichi Software,NIS America,0.888709677,1
+playtime_42719,metacritic_9526,Utawarerumono: Mask of Deception,Utawarerumono: Mask of Truth,PlayStation 4,PlayStation 4,2017,2017,Aquaplus,Aqua Plus,0.919529412,1
+playtime_54427,metacritic_9698,We. The Revolution,We. The Revolution,PC,PC,2019,2019,Polyslash,Klabater,0.885294118,1
+playtime_24655,metacritic_5729,Test Drive: Eve of Destruction,Test Drive: Eve of Destruction,PlayStation 2,PlayStation 2,2004,2004,Monster Games,Atari,0.883333333,1
+playtime_19702,metacritic_664,Trine,Trine,PlayStation 3,PlayStation 3,2009,2009,Frozenbyte,Nobilis,0.885294118,1
+playtime_58190,metacritic_11143,Terminator: Resistance,Terminator: Resistance,PC,PC,2019,2019,Teyon,Reef Entertainment,0.876086957,1
+playtime_61093,metacritic_3438,MotoGP 20,MotoGP 20,Xbox One,Xbox One,2020,2020,Milestone,Deep Silver,0.895,1
+playtime_11509,metacritic_13101,Naughty Bear,Naughty Bear,PlayStation 3,PlayStation 3,2010,2010,Artificial Mind and Movement,505 Games,0.874324324,1
+playtime_16563,metacritic_8423,Star Ocean: The Last Hope,Star Ocean: The Last Hope,Xbox 360,Xbox 360,2009,2009,tri-Ace,Square Enix,0.883333333,1
+playtime_40715,metacritic_3161,Little Nightmares,Little Nightmares,PC,PC,2017,2017,Tarsier Studios,Namco Bandai Games America,0.886585366,1
+playtime_38581,metacritic_6706,Nights of Azure,Nights of Azure,PlayStation 4,PlayStation 4,2016,2016,Gust,Koei Tecmo Games,0.88,1
+playtime_15108,metacritic_7740,SEGA Rally Online Arcade,SEGA Rally Online Arcade,Xbox 360,Xbox 360,2011,2011,Sumo Digital,Sega,0.8875,1
+playtime_19315,metacritic_10329,Tom Clancy's Splinter Cell: Conviction,Tom Clancy's HAWX 2,PC,PC,2010,2010,Ubisoft Montreal,Ubisoft,0.898387097,0
+playtime_44183,metacritic_11513,Malicious Fallen,Malicious Fallen,PlayStation 4,PlayStation 4,2017,2017,Alvion,Sony Interactive Entertainment,0.875,1
+playtime_54801,metacritic_13065,Nickelodeon Kart Racers,Nickelodeon Kart Racers,PlayStation 4,PlayStation 4,2018,2018,Bamtang Games,GameMill Entertainment,0.918571429,1
+playtime_18076,metacritic_4294,The Elder Scrolls III: Morrowind - Game of the Year Edition,The Elder Scrolls III: Bloodmoon,PC,PC,2003,2003,Bethesda Game Studios,Bethesda Softworks,0.866666667,1
+playtime_15388,metacritic_606,Shift 2: Unleashed,Shift 2: Unleashed,PC,PC,2011,2011,Slightly Mad Studios,Electronic Arts,0.884285714,1
+playtime_4155,metacritic_1216,DeathSpank,DeathSpank,PlayStation 3,PlayStation 3,2010,2010,Hothead Games,EA Partners,0.8875,1
+playtime_34377,metacritic_4386,Rocket League,Rocket League,PlayStation 4,PlayStation 4,2015,2015,Psyonix,505 Games,0.86875,1
+playtime_6456,metacritic_7712,FlatOut,FlatOut,PlayStation 2,PlayStation 2,2005,2005,Bugbear Entertainment,Empire Interactive,0.919230769,1
+playtime_32873,metacritic_1176,Cities: Skylines,Cities: Skylines - After Dark,PC,PC,2015,2015,Colossal Order,Paradox Interactive,0.886363636,1
+playtime_13937,metacritic_216,Ratchet & Clank Future: Tools of Destruction,Ratchet & Clank Future: Tools of Destruction,PlayStation 3,PlayStation 3,2007,2007,Insomniac Games,SCEA,0.85,1
+playtime_35548,metacritic_10125,Patrician II: Quest for Power,Patrician II: Quest for Power,PC,PC,2001,2001,Ascaron Entertainment,Strategy First,0.901428571,1
+playtime_25529,metacritic_13583,Breed,Breed,PC,PC,2004,2004,Brat Designs,cdv Software,0.875,1
+playtime_4156,metacritic_2450,DeathSpank,DeathSpank,Xbox 360,Xbox 360,2010,2010,Hothead Games,Electronic Arts,0.882142857,1
+playtime_28393,metacritic_12300,Over the Hedge,Over the Hedge,PC,PC,2006,2006,Edge of Reality,Activision,0.874,1
+playtime_8435,metacritic_6874,Infinite Undiscovery,Infinite Undiscovery,Xbox 360,Xbox 360,2008,2008,tri-Ace,Square Enix,0.883333333,1
+playtime_41931,metacritic_4745,Batman: Arkham Knight - Premium Edition,Batman: Arkham Knight,PlayStation 4,PlayStation 4,2015,2015,Rocksteady Studios,Warner Bros. Interactive Entertainment,0.892857143,1
+playtime_37968,metacritic_1678,Echoes Of Aetheria,Echoes Of Aetheria,PC,PC,2016,2016,Dancing Dragon Games,Degica,0.884615385,1
+playtime_57146,metacritic_4436,NHL 20,NHL 20,Xbox One,Xbox One,2019,2019,EA Vancouver,Electronic Arts,0.894444444,1
+playtime_67066,metacritic_1417,Narita Boy,Narita Boy,PlayStation 4,PlayStation 4,2021,2021,Studio Koba,Team17,0.867647059,1
+playtime_23659,metacritic_13034,Flushed Away,Flushed Away,PlayStation 2,PlayStation 2,2006,2006,Monkey Bar Games,D3,0.85,1
+playtime_30584,metacritic_8187,Battlefield Hardline,Battlefield Hardline,Xbox One,Xbox One,2015,2015,Visceral Games,Electronic Arts,0.89137931,1
+playtime_27134,metacritic_2288,Atelier Escha & Logy: Alchemists of the Dusk Sky,Atelier Escha & Logy: Alchemists of the Dusk Sky,PlayStation 3,PlayStation 3,2014,2014,Gust,Tecmo Koei America Corp.,0.85,1
+playtime_37798,metacritic_6936,Resident Evil Zero: HD Remaster,Resident Evil 0: HD Remaster,PC,PC,2016,2016,Capcom,Capcom,0.974528302,0
+playtime_23402,metacritic_14057,Dragon Ball: Raging Blast,Dragon Ball: Raging Blast,Xbox 360,Xbox 360,2009,2009,Spike,Namco Bandai Games America,0.869354839,1
+playtime_53473,metacritic_3344,Fell Seal: Arbiter's Mark,Fell Seal: Arbiter's Mark,PC,PC,2018,2018,6 Eyes Studio,1C Entertainment,0.901724138,1
+playtime_182,metacritic_13736,A Game of Thrones: Genesis,A Game of Thrones: Genesis,PC,PC,2011,2011,Cyanide,Focus Home Interactive,0.881034483,1
+playtime_29122,metacritic_2792,MotoGP '06,MotoGP '06,Xbox 360,Xbox 360,2006,2006,Climax,THQ,0.85,1
+playtime_1166,metacritic_8046,Asura's Wrath,Asura's Wrath,PlayStation 3,PlayStation 3,2012,2012,CyberConnect2,Capcom,0.881578947,1
+playtime_10879,metacritic_946,Midnight Club: Los Angeles,Midnight Club: Los Angeles,Xbox 360,Xbox 360,2008,2008,Rockstar San Diego,Rockstar Games,0.959090909,1
+playtime_8825,metacritic_8924,Just Cause,Just Cause,Xbox 360,Xbox 360,2006,2006,Avalanche Studios,Eidos Interactive,0.885294118,1
+playtime_63902,metacritic_10503,Peaky Blinders: Mastermind,Peaky Blinders: Mastermind,PlayStation 4,PlayStation 4,2020,2020,FuturLab,Curve Digital,0.892857143,1
+playtime_401,metacritic_251,Age of Empires II: The Conquerors,Age of Empires II: The Conquerors Expansion,PC,PC,2000,2000,Ensemble Studios,Microsoft Game Studios,0.941304348,1
+playtime_28268,metacritic_6217,Dynasty Warriors 8: Xtreme Legends - Complete Edition,Dynasty Warriors 8: Xtreme Legends Complete Edition,PlayStation 4,PlayStation 4,2014,2014,Omega Force,Tecmo Koei Games,0.894444444,1
+playtime_7309,metacritic_2787,Gran Turismo 5 Prologue,Gran Turismo 5 Prologue,PlayStation 3,PlayStation 3,2008,2008,Polyphony Digital,SCEA,0.85,1
+playtime_38067,metacritic_12590,Adventures of Mana,Adventures of Mana,PlayStation Vita,PlayStation Vita,2016,2016,Square-Enix,Square Enix,0.931818182,1
+playtime_12246,metacritic_6235,Order of War,Order of War,PC,PC,2009,2009,Wargaming.net,Square Enix,0.8875,1
+playtime_48907,metacritic_6174,Pure Farming 2018,Pure Farming 2018,PC,PC,2018,2018,Ice Flames,Techland,0.883333333,1
+playtime_17262,metacritic_3527,Super Puzzle Fighter II Turbo HD Remix,Super Puzzle Fighter II Turbo HD Remix,PlayStation 3,PlayStation 3,2007,2007,Backbone Emeryville,Capcom,0.898,1
+playtime_9205,metacritic_10794,KrissX,KrissX,Xbox 360,Xbox 360,2010,2010,Blitz,Konami,0.877272727,1
+playtime_37788,metacritic_2827,The Walking Dead: Michonne,The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One,PlayStation 4,PlayStation 4,2016,2016,Telltale Games,Telltale Games,0.905813953,0
+playtime_1177,metacritic_9193,Atelier Totori: The Adventurer of Arland,Atelier Totori: The Adventurer of Arland,PlayStation 3,PlayStation 3,2011,2011,Gust,NIS America,0.85,1
+playtime_23654,metacritic_13310,The Ant Bully,The Ant Bully,PC,PC,2006,2006,Artificial Mind and Movement,Midway,0.885294118,1
+playtime_34165,metacritic_3347,Broken Age: The Complete Adventure,Broken Age: Act 1,PC,PC,2014,2014,Double Fine Productions,Double Fine Productions,0.903571429,0
+playtime_60852,metacritic_934,Neon Abyss,Neon Abyss,Xbox One,Xbox One,2020,2020,Veewo Games,Team17,0.885294118,1
+playtime_41520,metacritic_12319,Farming Simulator 17,Farming Simulator 17,Xbox One,Xbox One,2016,2016,Giants Software,Focus Home Interactive,0.898648649,1
+playtime_25759,metacritic_10011,Resident Evil 5: Gold Edition,Resident Evil 5: Desperate Escape,Xbox 360,Xbox 360,2010,2010,Capcom,Capcom,0.87,1
+playtime_11541,metacritic_846,NBA 2K8,NBA 2K8,Xbox 360,Xbox 360,2007,2007,Visual Concepts,2K Sports,0.8875,1
+playtime_2697,metacritic_12134,Cargo! - The Quest for Gravity,Cargo! The Quest for Gravity,PC,PC,2011,2011,Ice-Pick Lodge Studio,Viva Media,0.888709677,1
+playtime_36807,metacritic_5773,The Incredible Adventures of Van Helsing: Final Cut,Adventures of Pip,PC,PC,2015,2015,NeocoreGames,TicToc Games,0.8525,0
+playtime_7512,metacritic_103,Guitar Hero,Guitar Hero,PlayStation 2,PlayStation 2,2005,2005,Harmonix Music Systems,RedOctane,0.879032258,1
+playtime_7306,metacritic_8,Gran Turismo 3: A-Spec,Gran Turismo 3: A-Spec,PlayStation 2,PlayStation 2,2001,2001,Polyphony Digital,SCEA,0.85,1
+playtime_7124,metacritic_8638,God Hand,God Hand,PlayStation 2,PlayStation 2,2006,2006,Clover Studio,Capcom,0.881578947,1
+playtime_54258,metacritic_11731,Warhammer: Chaosbane,Warhammer: Chaosbane,PlayStation 4,PlayStation 4,2019,2019,Eko Software,Bigben Interactive,0.89,1
+playtime_27628,metacritic_6794,Mobile Forces,Mobile Forces,PC,PC,2002,2002,Rage Software,Majesco Games,0.907692308,1
+playtime_22324,metacritic_13888,MUD - FIM Motocross World Championship,MUD - FIM Motocross World Championship,Xbox 360,Xbox 360,2013,2013,Milestone,Namco Bandai Games,0.894444444,1
+playtime_22746,metacritic_4840,NHL 2003,Tiger Woods PGA Tour 2003,PlayStation 2,PlayStation 2,2002,2002,EA Sports,EA Sports,0.85,0
+playtime_52688,metacritic_12133,Cloudpunk,Cloudpunk,PlayStation 4,PlayStation 4,2020,2020,Ion Lands,Merge Games,0.88,1
+playtime_63597,metacritic_12250,Orwell's Animal Farm,Orwell's Animal Farm,PC,PC,2020,2020,Nerial,The Dairymen,0.866666667,1
+playtime_30283,metacritic_5666,Kirby and the Rainbow Curse,Kirby and the Rainbow Curse,Wii U,Wii U,2015,2015,HAL Laboratory,Nintendo,0.877272727,1
+playtime_7359,metacritic_40,Grand Theft Auto: San Andreas,Grand Theft Auto: San Andreas,PlayStation 2,PlayStation 2,2004,2004,Rockstar North,Rockstar Games,0.959090909,1
+playtime_12572,metacritic_9953,"Penny Arcade Adventures: Precipice of Darkness, Episode Two",Penny Arcade Adventures: Episode One,Xbox 360,Xbox 360,2008,2008,Hothead Games,Hothead Games,0.973529412,1
+playtime_41942,metacritic_6023,The Walking Dead: A New Frontier,The Walking Dead: Michonne - Episode 3: What We Deserve,PC,PC,2016,2016,Telltale Games,Telltale Games,0.862244898,0
+playtime_1574,metacritic_4823,Battlefield: Bad Company 2,Battlefield: Bad Company 2 Vietnam,PlayStation 3,PlayStation 3,2010,2010,EA Digital Illusions CE,EA Games,0.91,1
+playtime_23456,metacritic_5312,MLB 12: The Show,MLB 12: The Show,PlayStation Vita,PlayStation Vita,2012,2012,SCE San Diego Studio,SCEA,0.8875,1
+playtime_48116,metacritic_9343,The Walking Dead Collection: The Telltale Series,The Walking Dead: The Telltale Series - A New Frontier Episode 3: Above the Law,PC,PC,2017,2017,Telltale Games,Telltale Games,0.892253521,0
+playtime_412,metacritic_4544,Age of Wonders II: The Wizard's Throne,Age of Wonders II: The Wizard's Throne,PC,PC,2002,2002,Triumph Studios,Gathering,0.8875,1
+playtime_18872,metacritic_1630,The Void,The Void,PC,PC,2009,2009,Ice-Pick Lodge,ND Games,0.877272727,1
+playtime_9966,metacritic_9950,MAG,MAG,PlayStation 3,PlayStation 3,2010,2010,Zipper Interactive,SCEA,0.85,1
+playtime_24666,metacritic_2310,Stick it to The Man!,Stick it to the Man!,PC,PC,2013,2013,Zoink!,Ripstone,0.870357143,1
+playtime_27229,metacritic_8466,MotoGP 13,MotoGP 13,Xbox 360,Xbox 360,2013,2013,Milestone,MileStone Inc.,0.954347826,1
+playtime_22147,metacritic_11849,NBA Live 07,NBA 07,PlayStation 2,PlayStation 2,2006,2006,EA Canada,SCEA,0.919230769,1
+playtime_33439,metacritic_10364,Star Trek: Armada II,Star Trek: Armada II,PC,PC,2001,2001,Mad Doc Software,Activision,0.873076923,1
+playtime_33925,metacritic_11945,The Incredible Adventures of Van Helsing III,The Incredible Adventures of Van Helsing III,PC,PC,2015,2015,Neocore Games,NeocoreGames,0.934,1
+playtime_35451,metacritic_11343,Traverser,Traverser,PC,PC,2015,2015,Gatling Goat Studios,Adult Swim,0.9,1
+playtime_13746,metacritic_14594,R.A.W. Realms of Ancient War,Realms of Ancient War,PC,PC,2012,2012,Wizarbox,Focus Home Interactive,0.86,1
+playtime_17589,metacritic_2342,Tales of Vesperia,Tales of Vesperia,Xbox 360,Xbox 360,2008,2008,Namco Tales Studio,Namco Bandai Games America,0.931818182,1
+playtime_58642,metacritic_11841,The Suicide of Rachel Foster,The Suicide of Rachel Foster,PC,PC,2020,2020,One-o-one Games,Daedalic Entertainment,0.906756757,1
+playtime_36589,metacritic_1286,Detroit: Become Human,Detroit: Become Human,PlayStation 4,PlayStation 4,2018,2018,Quantic Dream,SCEA,0.85,1
+playtime_371,metacritic_5396,After Burner Climax,After Burner Climax,PlayStation 3,PlayStation 3,2010,2010,Sega-AM2,Sega,0.95,1
+playtime_3923,metacritic_4305,Darksiders II,Darksiders II,Wii U,Wii U,2012,2012,Vigil Games,THQ,0.85,1
+playtime_61451,metacritic_11809,What Happened,What Happened,PC,PC,2020,2020,Genius Slackers,KATNAPPE SP. Z O. O.,0.86875,1
+playtime_17870,metacritic_2104,The Adventures of Cookie & Cream,The Adventures of Cookie & Cream,PlayStation 2,PlayStation 2,2001,2001,From Software,Agetec Inc.,0.875,1
+playtime_1664,metacritic_10918,Beijing 2008,Beijing 2008 - The Official Video Game of the Olympic Games,PlayStation 3,PlayStation 3,2008,2008,Eurocom,Sega,0.85,0
+playtime_4507,metacritic_4777,Dirt 3,DiRT 3,PlayStation 3,PlayStation 3,2011,2011,Codemasters Southam,Codemasters,0.85,1
+playtime_23157,metacritic_4670,Europa Universalis IV,Europa Universalis IV,PC,PC,2013,2013,Paradox Development Studio,Paradox Interactive,0.930769231,1
+playtime_24353,metacritic_4256,Batman: Arkham City - Armoured Edition,Batman: Arkham City - Armored Edition,Wii U,Wii U,2012,2012,Warner Bros. Games Montr,Warner Bros. Interactive Entertainment,0.944,1
+playtime_1931,metacritic_12857,Blades of Time,Blades of Time,Xbox 360,Xbox 360,2012,2012,Gaijin Entertainment,Konami,0.896153846,1
+playtime_60175,metacritic_11136,Separation(2020),Separation,PlayStation 4,PlayStation 4,2020,2020,Recluse Industries,Recluse Industries,0.896153846,1
+playtime_4404,metacritic_343,Diablo II,Diablo II,PC,PC,2000,2000,Blizzard North,Blizzard Entertainment,0.959090909,1
+playtime_14815,metacritic_4215,Saints Row: The Third,Saints Row: The Third,PC,PC,2011,2011,Volition,THQ,0.85,1
+playtime_29662,metacritic_4095,Metro 2033 Redux,Metro Redux,PC,PC,2014,2014,4A Games,Deep Silver,0.881578947,0
+playtime_33916,metacritic_9682,NHL 2005,NHL 2005,PlayStation 2,PlayStation 2,2004,2004,EA Black Box,EA Sports,0.907142857,1
+playtime_20682,metacritic_11876,Will Rock,Will Rock,PC,PC,2003,2003,Saber Interactive,Ubisoft,0.8625,1
+playtime_19652,metacritic_13916,Transformers: The Game,Transformers: The Game,PC,PC,2007,2007,Traveller,Activision,0.865789474,1
+playtime_25423,metacritic_6382,Army Men: RTS,Army Men: RTS,PC,PC,2002,2002,Pandemic Studios,3DO,0.85,1
+playtime_12132,metacritic_7526,Okage: Shadow King,Okage: Shadow King,PlayStation 2,PlayStation 2,2001,2001,Zener Works,SCEA,0.85,1
+playtime_69459,metacritic_10449,Warhammer Age of Sigmar: Storm Ground,Warhammer Age of Sigmar: Storm Ground,PC,PC,2021,2021,Gasket Games,Focus Home Interactive,0.894117647,1
+playtime_39839,metacritic_277,Sid Meier's Civilization VI,Sid Meier's Civilization VI,PC,PC,2016,2016,Firaxis,2K Games,0.89,1
+playtime_39985,metacritic_1568,Observer,Observer,PlayStation 4,PlayStation 4,2017,2017,Bloober Team,Aspyr,0.867647059,1
+playtime_11516,metacritic_3881,NBA 2K10,NBA 2K10,PlayStation 3,PlayStation 3,2009,2009,Visual Concepts,2K Sports,0.8875,1
+playtime_19498,metacritic_751,Top Spin 4,Top Spin 4,PlayStation 3,PlayStation 3,2011,2011,2K Czech,2K Sports,0.91,1
+playtime_1724,metacritic_7581,Beyond: Two Souls,Beyond: Two Souls,PlayStation 3,PlayStation 3,2013,2013,Quantic Dream,SCEA,0.85,1
+playtime_4250,metacritic_9791,Demigod,Demigod,PC,PC,2009,2009,Gas Powered Games,Stardock,0.886,1
+playtime_8091,metacritic_5145,Homeworld,Homeworld,PC,PC,1999,1999,Relic Entertainment,Sierra Entertainment,0.971875,1
+playtime_51260,metacritic_1168,Flipping Death,Flipping Death,Xbox One,Xbox One,2018,2018,Zoink Games,Zoink!,0.938235294,1
+playtime_19103,metacritic_7502,TimeShift,TimeShift,PlayStation 3,PlayStation 3,2007,2007,Saber Interactive,Sierra Entertainment,0.939189189,1
+playtime_62369,metacritic_7612,Surgeon Simulator 2,Surgeon Simulator 2: Access All Areas,PC,PC,2020,2020,Bossa Studios,Bossa Studios,0.975,1
+playtime_15921,metacritic_1618,Soldner-X 2: Final Prototype,Soldner-X 2: Final Prototype,PlayStation 3,PlayStation 3,2010,2010,SideQuest Studios,EastAsiaSoft,0.89137931,1
+playtime_57526,metacritic_2916,Ys IX: Monstrum Nox,Ys IX: Monstrum Nox,PlayStation 4,PlayStation 4,2021,2021,Nihon Falcom,NIS America,0.889130435,1

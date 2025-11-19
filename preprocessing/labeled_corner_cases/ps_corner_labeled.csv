@@ -1,0 +1,301 @@
+p_row_id,s_row_id,title_p,title_s,platform_p,platform_s,release_year_p,release_year_s,publisher_p,publisher_s,similarity,label
+playtime_33655,sales_2566,Yakuza Fury,Yakuza,PlayStation 2,PlayStation 2,2005.0,2005.0,505 Game Street,Sega,0.881578947368421,1
+playtime_4804,sales_354,Doom II: Hell on Earth,Doom II: Hell on Earth,PC,PC,1994.0,1994.0,GT Interactive,Virgin Interactive,0.982,1
+playtime_17385,sales_8400,Surf's Up(2007),Surf's Up,Wii,Wii,2007.0,2007.0,Ubisoft,Ubisoft,0.91,1
+playtime_406,sales_7029,Age of Empires: The Age of Kings,Age of Empires: The Age of Kings,Nintendo DS,Nintendo DS,2006.0,2006.0,Majesco,THQ,0.85,1
+playtime_3921,sales_8699,Darksiders II,Darksiders II,PC,PC,2012.0,2012.0,THQ,Nordic Games,0.85,1
+playtime_14565,sales_11102,Rock Revolution,Karaoke Revolution Presents American Idol Encore 2,Xbox 360,Xbox 360,2008.0,2008.0,Konami,Konami Digital Entertainment,0.91,1
+playtime_27772,sales_4949,MotoGP '08,MotoGP 08,PlayStation 3,PlayStation 3,2008.0,2008.0,Capcom,Capcom,0.9763157894736842,1
+playtime_25117,sales_5949,FIFA Street 3,FIFA Street 3,Xbox 360,Xbox 360,2008.0,2008.0,EA Sports BIG,Electronic Arts,0.8928571428571428,1
+playtime_36870,sales_1674,WWE 2K16,WWE 2K16,PlayStation 4,PlayStation 4,2015.0,2015.0,2K Sports,Take-Two Interactive,0.8706896551724138,1
+playtime_23804,sales_6226,Indiana Jones and the Staff of Kings,Indiana Jones and the Staff of Kings,PlayStation 2,PlayStation 2,2009.0,2009.0,LucasArts,Activision,0.8973684210526316,1
+playtime_16273,sales_3547,Spec Ops: The Line,Spec Ops: The Line,PlayStation 3,PlayStation 3,2012.0,2012.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_84772,sales_12028,Alpha and Omega,Alpha and Omega,Nintendo DS,Nintendo DS,2010.0,2010.0,Storm City Games,Unknown,0.8630434782608696,1
+playtime_43839,sales_12000,The Sims Pet Stories,The Sims 2: Seasons,PC,PC,2007.0,2007.0,Electronic Arts,Electronic Arts,0.85,1
+playtime_26331,sales_3883,The LEGO Movie Videogame,The LEGO Movie Videogame,Xbox One,Xbox One,2014.0,2014.0,TT Games,Warner Bros. Interactive Entertainment,0.8760869565217391,1
+playtime_15512,sales_10494,Shrek Forever After,Shrek: Forever After,Xbox 360,Xbox 360,2010.0,2010.0,Activision,Activision,0.9884615384615384,1
+playtime_18534,sales_15207,The Lord of the Rings: The Battle for Middle-earth II,The Lord of the Rings: The Battle for Middle-Earth II,PC,PC,2006.0,2006.0,EA Games,Electronic Arts,0.8799467613132209,1
+playtime_71683,sales_2009,ZhuZhu Pets: Featuring the Wild Bunch,ZhuZhu Pets,Nintendo DS,Nintendo DS,2010.0,2010.0,Activision,Activision,0.8676470588235294,1
+playtime_20186,sales_10608,Van Helsing,Van Helsing,Game Boy Advance,Game Boy Advance,2004.0,2004.0,VU Games,Activision,0.8666666666666667,1
+playtime_14185,sales_1707,Resident Evil 6,Resident Evil: Operation Raccoon City,PlayStation 3,PlayStation 3,2012.0,2012.0,Capcom,Capcom,0.8630434782608696,0
+playtime_5196,sales_2470,Duke Nukem Forever,Duke Nukem Forever,Xbox 360,Xbox 360,2011.0,2011.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_55197,sales_5710,Phineas and Ferb: Ride Again,Phineas and Ferb Ride Again,Nintendo DS,Nintendo DS,2010.0,2010.0,Disney Interactive Studios,Disney Interactive Studios,0.991818181818182,1
+playtime_25461,sales_6537,The Amazing Spider-Man 2(2014),The Amazing Spider-Man 2 (2014),Xbox 360,Xbox 360,2014.0,2014.0,Activision,Activision,0.9778688524590164,1
+playtime_89646,sales_15783,Densha de Go! Shinkansen EX: Sanyou Shinkansen Hen,Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen,Wii,Wii,2007.0,2007.0,Taito Corporation,Taito,0.9756756756756756,1
+playtime_6360,sales_1278,Final Fantasy XII,Dirge of Cerberus: Final Fantasy VII,PlayStation 2,PlayStation 2,2006.0,2006.0,Square Enix,Square Enix,0.94,0
+playtime_22186,sales_1379,NASCAR 2005: Chase for the Cup,NASCAR 2005: Chase for the Cup,PlayStation 2,PlayStation 2,2004.0,2004.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_60061,sales_1037,Imagine: Figure Skater,Imagine: Teacher,Nintendo DS,Nintendo DS,2008.0,2008.0,Ubisoft,Ubisoft,0.8578947368421053,0
+playtime_14974,sales_4376,SBK Generations,Naruto Shippuden: Ultimate Ninja Storm Generations,Xbox 360,Xbox 360,2012.0,2012.0,Black Bean Games,Namco Bandai Games,0.8866515837104072,0
+playtime_12591,sales_9419,Persona 4 Arena,Persona 4: Arena,Xbox 360,Xbox 360,2012.0,2012.0,Atlus,Atlus,0.985483870967742,1
+playtime_14543,sales_8704,Rock Band 2,AC/DC LIVE: Rock Band Track Pack,PlayStation 2,PlayStation 2,2008.0,2008.0,MTV Games,MTV Games,0.955,1
+playtime_17644,sales_2237,Teenage Mutant Ninja Turtles(2003),Teenage Mutant Ninja Turtles,Game Boy Advance,Game Boy Advance,2003.0,2003.0,Konami,Unknown,0.852605459057072,1
+playtime_19042,sales_3079,Tiger Woods PGA Tour 09,Tiger Woods PGA Tour 09,PlayStation 3,PlayStation 3,2008.0,2008.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_25075,sales_7678,Taiko no Tatsujin: Atsumare! Matsuri da!! Yondaime,Taiko no Tatsujin: Go! Go! Godaime,PlayStation 2,PlayStation 2,2004.0,2004.0,Namco,Namco Bandai Games,0.8875000000000001,1
+playtime_26111,sales_10789,Castlevania: Double Pack,Castlevania Double Pack,Game Boy Advance,Game Boy Advance,2006.0,2006.0,Konami,Konami Digital Entertainment,0.9904255319148936,1
+playtime_71273,sales_14260,Toushin Toshi Girls Gift RPG,Toushin Toshi,Nintendo 3DS,Nintendo 3DS,2014.0,2014.0,Imageepoch,imageepoch Inc.,0.97,1
+playtime_23150,sales_3527,Assassin's Creed: Project Legacy,Assassin's Creed II,PC,PC,2010.0,2010.0,Ubisoft,Ubisoft,0.8603448275862069,0
+playtime_221,sales_3401,Rock Band Track Pack: AC/DC Live,Rock Band 2,PlayStation 2,PlayStation 2,2008.0,2008.0,MTV Games,MTV Games,0.955,1
+playtime_18099,sales_3042,The Fairly OddParents: Breakin' da Rules,The Fairly Odd Parents: Breakin Da Rules,PlayStation 2,PlayStation 2,2003.0,2003.0,THQ,THQ,0.955,1
+playtime_14563,sales_10012,Rock Revolution,Karaoke Revolution Presents American Idol Encore 2,PlayStation 3,PlayStation 3,2008.0,2008.0,Konami,Konami Digital Entertainment,0.91,1
+playtime_18743,sales_542,The Sims(2003),The Sims,PlayStation 2,PlayStation 2,2003.0,2003.0,Electronic Arts,Electronic Arts,0.8772727272727272,1
+playtime_22746,sales_7127,NHL 2003,NHL FaceOff 2003,PlayStation 2,PlayStation 2,2002.0,2002.0,EA Sports,Sony Computer Entertainment,0.8833333333333333,0
+playtime_1374,sales_2734,Band Hero,Band Hero,PlayStation 3,PlayStation 3,2009.0,2009.0,RedOctane,Activision,0.8973684210526316,1
+playtime_7037,sales_2414,Ghostbusters: The Video Game,Ghostbusters: The Video Game,PlayStation 3,PlayStation 3,2009.0,2009.0,Atari,Sony Computer Entertainment,0.8781249999999999,1
+playtime_54688,sales_3441,Spongebob Squarepants featuring Nicktoons: Globs of Doom,SpongeBob SquarePants featuring Nicktoons: Globs of Doom,PlayStation 2,PlayStation 2,2008.0,2008.0,THQ,THQ,0.9839285714285716,1
+playtime_21074,sales_1466,WWE SmackDown vs. Raw 2008,WWE SmackDown vs Raw 2008,PlayStation 3,PlayStation 3,2007.0,2007.0,THQ,THQ,0.9911764705882352,1
+playtime_11419,sales_10626,Nail'd,nail'd,Xbox 360,Xbox 360,2010.0,2010.0,Deep Silver,Deep Silver,0.925,1
+playtime_36269,sales_3036,Minecraft: Story Mode,Minecraft: Story Mode,PlayStation 4,PlayStation 4,2015.0,2015.0,Telltale Games,Mojang,0.865,1
+playtime_90728,sales_2086,Littlest Pet Shop: Garden,Littlest Pet Shop: Winter,Nintendo DS,Nintendo DS,2008.0,2008.0,Electronic Arts,Electronic Arts,0.9267441860465118,1
+playtime_32925,sales_4027,Dragon Quest Heroes: The World Tree's Woe and the Blight Below,Dragon Quest Heroes: The World's Tree Woe and the Blight Below,PlayStation 3,PlayStation 3,2015.0,2015.0,Square Enix,Square Enix,0.985483870967742,1
+playtime_24129,sales_12206,The Guided Fate Paradox,The Guided Fate Paradox,PlayStation 3,PlayStation 3,2013.0,2013.0,NIS America,Nippon Ichi Software,0.8887096774193548,1
+playtime_37683,sales_11582,Assassin's Creed Chronicles: India,Assassin's Creed Chronicles,PlayStation 4,PlayStation 4,2016.0,2016.0,Ubisoft,Ubisoft,0.9483606557377048,1
+playtime_6088,sales_1002,FIFA 08,FIFA Soccer 08,PlayStation 3,PlayStation 3,2007.0,2007.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_40365,sales_14093,Batman: The Telltale Series,Batman: A Telltale Game Series,PlayStation 4,PlayStation 4,2016.0,2016.0,Telltale Games,Telltale Games,0.964,1
+playtime_66588,sales_6735,Littlest Pet Shop: City Friends,Littlest Pet Shop: Country Friends,Nintendo DS,Nintendo DS,2009.0,2009.0,Electronic Arts,Electronic Arts,0.9653846153846154,1
+playtime_55627,sales_3424,Game Party: In Motion,Game Party in Motion,Xbox 360,Xbox 360,2010.0,2010.0,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,0.9231707317073172,1
+playtime_27481,sales_14561,Planet of the Apes(2001),Planet of the Apes,Game Boy Advance,Game Boy Advance,2001.0,2001.0,Ubisoft,Ubisoft,0.9357142857142856,1
+playtime_75063,sales_8424,"Go, Diego, Go! Safari Rescue","Go, Diego, Go! Safari Rescue",Nintendo DS,Nintendo DS,2007.0,2007.0,2K Play,Take-Two Interactive,0.8722222222222222,1
+playtime_12817,sales_4105,Pinball Hall of Fame: The Williams Collection,Pinball Hall of Fame: The Williams Collection,Wii,Wii,2008.0,2008.0,Crave Entertainment,System 3 Arcade Software,0.905813953488372,1
+playtime_12590,sales_2790,Persona 4 Arena,Persona 4: Arena,PlayStation 3,PlayStation 3,2012.0,2012.0,Atlus,Atlus,0.985483870967742,1
+playtime_29313,sales_15939,Space Invaders Revolution,Space Invaders Revolution,Nintendo DS,Nintendo DS,2005.0,2005.0,Mastiff,Rising Star Games,0.8875,1
+playtime_30927,sales_662,NBA 2K15,NBA 2K15,PlayStation 4,PlayStation 4,2014.0,2014.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_12917,sales_9955,Planet 51: The Game,Planet 51,PlayStation 3,PlayStation 3,2009.0,2009.0,Sega,Sega,0.91,1
+playtime_7545,sales_6222,Guitar Hero: Metallica,Guitar Hero: Van Halen,PlayStation 3,PlayStation 3,2009.0,2009.0,Activision,Activision,0.8772727272727272,0
+playtime_2596,sales_5919,Call of Duty: Modern Warfare 3 - Defiance,Call of Duty: Modern Warfare 3: Defiance,Nintendo DS,Nintendo DS,2011.0,2011.0,Activision,Activision,0.9833333333333334,1
+playtime_59849,sales_15853,Assault Suit Leynos(2016),Assault Suit Leynos,PlayStation 4,PlayStation 4,2016.0,2016.0,Rising Star Games,Rising Star Games,0.9386363636363636,1
+playtime_21783,sales_1357,NBA Live 06,NBA Live 06 (Weekly american sales),PlayStation 2,PlayStation 2,2005.0,2005.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_502,sales_3799,Alice in Wonderland(2010),Alice in Wonderland,Wii,Wii,2010.0,2010.0,Disney Interactive Studios,Disney Interactive Studios,0.9386363636363636,1
+playtime_8337,sales_13062,Imagine: Family Doctor,Imagine: Artist,Nintendo DS,Nintendo DS,2009.0,2009.0,Ubisoft,Ubisoft,0.8630434782608696,0
+playtime_5985,sales_4364,Fatal Fury Special,Fatal Fury 2,Super Nintendo,Super Nintendo,1993.0,1993.0,Various,Takara,0.8552447552447553,1
+playtime_30140,sales_761,FIFA 15,FIFA 15,Xbox One,Xbox One,2014.0,2014.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_10542,sales_1494,Mega Man Zero 2,Mega Man Battle Network 4: Red Sun / Blue Moon,Game Boy Advance,Game Boy Advance,2003.0,2003.0,Capcom,Capcom,0.8630434782608696,0
+playtime_24426,sales_10357,Blazblue: Continuum Shift II,BlazBlue: Continuum Shift II,Nintendo 3DS,Nintendo 3DS,2011.0,2011.0,Aksys Games,PQube,0.8526785714285715,1
+playtime_52016,sales_10828,Taiko no Tatsujin: Dokodon! Mystery Adventure,Taiko no Tatsujin: Don Don! Mystery Adventure,Nintendo 3DS,Nintendo 3DS,2016.0,2016.0,Bandai Namco Games,Namco Bandai Games,0.97,1
+playtime_39533,sales_9994,Dead Island: Riptide - Definitive Edition,Dead Island Definitive Collection,PlayStation 4,PlayStation 4,2016.0,2016.0,Deep Silver,Deep Silver,0.8783783783783784,1
+playtime_15028,sales_12687,Scurge: Hive,Scurge: Hive,Nintendo DS,Nintendo DS,2006.0,2006.0,SouthPeak Interactive,SouthPeak Games,0.9625,1
+playtime_2511,sales_8124,Cabela's Dangerous Adventures,Cabela's Legendary Adventures,Wii,Wii,2008.0,2008.0,Activision,Activision,0.906896551724138,1
+playtime_21072,sales_9746,WWE SmackDown vs. Raw 2008,WWE SmackDown vs Raw 2008,Nintendo DS,Nintendo DS,2007.0,2007.0,THQ,THQ,0.9911764705882352,1
+playtime_13355,sales_640,Pro Evolution Soccer 2011,pro evolution soccer 2011,PlayStation 3,PlayStation 3,2010.0,2010.0,Konami,Konami Digital Entertainment,0.946,1
+playtime_35405,sales_3756,Star Wars: Battlefront(2015),Star Wars Battlefront (2015),PC,PC,2015.0,2015.0,Electronic Arts,Electronic Arts,0.8875000000000001,1
+playtime_39996,sales_12645,I Am Setsuna,Project Setsuna,PlayStation 4,PlayStation 4,2016.0,2016.0,Square Enix,Square Enix,0.8815789473684211,1
+playtime_14565,sales_10198,Rock Revolution,Karaoke Revolution Presents American Idol Encore,Xbox 360,Xbox 360,2008.0,2008.0,Konami,Konami Digital Entertainment,0.91,1
+playtime_39513,sales_2778,Namco Museum Remix,Namco Museum Remix,Wii,Wii,2007.0,2007.0,Namco Bandai,Atari,0.8852941176470588,1
+playtime_31917,sales_4661,Fishing Resort,Fishing Resort,Wii,Wii,2011.0,2011.0,Xseed Games,Namco Bandai Games,0.94375,1
+playtime_46659,sales_13372,Arctic Tale,Arctic Tale,Wii,Wii,2007.0,2007.0,DSI Games,Zoo Digital Publishing,0.8790322580645161,1
+playtime_2490,sales_2301,Buzz!: Quiz TV,Buzz! Quiz TV,PlayStation 3,PlayStation 3,2008.0,2008.0,Sony Computer Entertainment Europe,Sony Computer Entertainment,0.9833333333333334,1
+playtime_30913,sales_11402,State of Emergency 2,State of Emergency 2,PlayStation 2,PlayStation 2,2006.0,2006.0,SouthPeak Interactive,SouthPeak Games,0.9625,1
+playtime_14344,sales_9941,Ridge Racer: Unbounded,Ridge Racer Unbounded,Xbox 360,Xbox 360,2012.0,2012.0,Namco Bandai Games,Namco Bandai Games,0.9895348837209303,1
+playtime_1779,sales_6191,Bionic Commando(2009),Bionic Commando,Xbox 360,Xbox 360,2009.0,2009.0,Capcom,Capcom,0.925,1
+playtime_65244,sales_3365,High School Musical 3: Senior Year Dance,Disney Sing It! High School Musical 3: Senior Year,Wii,Wii,2008.0,2008.0,Disney Interactive Studios,Disney Interactive Studios,0.9635135135135136,1
+playtime_24964,sales_9997,GT Advance Championship Racing,GT Advance 2: Rally Racing,Game Boy Advance,Game Boy Advance,2001.0,2001.0,THQ,THQ,0.905813953488372,1
+playtime_11821,sales_3419,NHL 12,NHL 12,PlayStation 3,PlayStation 3,2011.0,2011.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_36515,sales_13546,Go! Go! Ackman 3,Go Go Ackman 3,Super Nintendo,Super Nintendo,1995.0,1995.0,Banpresto,Banpresto,0.9804347826086957,1
+playtime_8338,sales_13062,Imagine: Rescue Vet,Imagine: Artist,Nintendo DS,Nintendo DS,2009.0,2009.0,Ubisoft,Ubisoft,0.8630434782608696,0
+playtime_30224,sales_11489,Persona 4 Arena Ultimax,Persona 4: Arena Ultimax,Xbox 360,Xbox 360,2014.0,2014.0,Atlus,Atlus,0.9904255319148936,1
+playtime_8126,sales_4177,Hot Wheels: Velocity X,Hot Wheels Velocity X,PlayStation 2,PlayStation 2,2002.0,2002.0,THQ,THQ,0.9895348837209303,1
+playtime_11619,sales_1345,NCAA Football 2003,NCAA Football 2003,PlayStation 2,PlayStation 2,2002.0,2002.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_8315,sales_3850,Wings of Prey,IL-2 Sturmovik: Birds of Prey,Xbox 360,Xbox 360,2009.0,2009.0,505 Games,505 Games,0.865,1
+playtime_7009,sales_8615,Ghost in the Shell: Stand Alone Complex(2004),Ghost in the Shell: Stand Alone Complex,PlayStation 2,PlayStation 2,2004.0,2004.0,Bandai,Namco Bandai Games,0.967857142857143,1
+playtime_16222,sales_7781,Space Invaders Extreme 2,Space Invaders Extreme 2,Nintendo DS,Nintendo DS,2009.0,2009.0,Taito Corporation,Square Enix,0.8821428571428571,1
+playtime_6152,sales_8750,FIFA Football 2004,NCAA Football 2004,Nintendo GameCube,Nintendo GameCube,2003.0,2003.0,Electronic Arts,Electronic Arts,0.9274193548387096,0
+playtime_68690,sales_15274,Thomas & Friends: Hero of the Rails,Thomas & Friends: Hero of the Rails,Wii,Wii,2010.0,2010.0,Majesco,Unknown,0.8714285714285714,1
+playtime_45502,sales_439,Resident Evil: Chronicles HD Collection,Resident Evil 6,PlayStation 3,PlayStation 3,2012.0,2012.0,Capcom,Capcom,0.8630434782608696,0
+playtime_9963,sales_13369,Mafia,Mafia,PC,PC,2002.0,2002.0,Gathering of Developers,Take-Two Interactive,0.8988372093023256,1
+playtime_21071,sales_3918,WWE SmackDown vs. Raw 2007,WWE SmackDown vs. RAW 2007,Xbox 360,Xbox 360,2006.0,2006.0,THQ,THQ,0.9653846153846154,1
+playtime_44922,sales_15636,Katekyoo Hitman Reborn! Kindan no Yami no Delta,Katekyoo Hitman Reborn! Kindan no Yami no Delta,PlayStation 2,PlayStation 2,2008.0,2008.0,Marvelous Entertainment,Marvelous Interactive,0.9659090909090908,1
+playtime_362,sales_7600,Afro Samurai,Afro Samurai,PlayStation 3,PlayStation 3,2009.0,2009.0,Surge,Atari,0.88,1
+playtime_36268,sales_2951,Minecraft: Story Mode,Minecraft: Story Mode,PlayStation 3,PlayStation 3,2015.0,2015.0,Telltale Games,Mojang,0.865,1
+playtime_24208,sales_4207,Pro Evolution Soccer 4,World Soccer Winning Eleven 8: Liveware Evolution,PlayStation 2,PlayStation 2,2005.0,2005.0,Konami,Konami Digital Entertainment,0.9289473684210529,1
+playtime_14766,sales_14022,S.T.A.L.K.E.R.: Clear Sky,S.T.A.L.K.E.R.: Clear Sky,PC,PC,2008.0,2008.0,GSC World Publishing,Deep Silver,0.8790322580645161,1
+playtime_29138,sales_1745,Midnight Club 3: DUB Edition Remix,Midnight Club 3: DUB Edition Remix,PlayStation 2,PlayStation 2,2006.0,2006.0,Rockstar Games,Take-Two Interactive,0.8852941176470588,1
+playtime_18926,sales_9768,The X-Files: Resist or Serve,The X Files: Resist or Serve,PlayStation 2,PlayStation 2,2004.0,2004.0,Vivendi Universal Games,Vivendi Games,0.967857142857143,1
+playtime_21073,sales_677,WWE SmackDown vs. Raw 2008,WWE SmackDown vs Raw 2008,PlayStation 2,PlayStation 2,2007.0,2007.0,THQ,THQ,0.9911764705882352,1
+playtime_6259,sales_773,Final Fantasy III(2006),Final Fantasy III,Nintendo DS,Nintendo DS,2006.0,2006.0,Square Enix,Square Enix,0.94,1
+playtime_2289,sales_4253,Brothers in Arms: Road to Hill 30,Brothers In Arms: Earned in Blood,PlayStation 2,PlayStation 2,2005.0,2005.0,Ubisoft,Ubisoft,0.8636363636363636,1
+playtime_618,sales_4059,Alone in the Dark(2008),Alone in the Dark,Xbox 360,Xbox 360,2008.0,2008.0,Atari,Atari,0.9325,1
+playtime_16110,sales_16152,Soulcalibur Legends,SoulCalibur Legends (JP sales),Wii,Wii,2007.0,2007.0,Namco Bandai,Namco Bandai Games,0.8806122448979592,1
+playtime_17196,sales_588,Super Mario Galaxy 2,Super Mario All-Stars: Limited Edition,Wii,Wii,2010.0,2010.0,Nintendo,Nintendo,0.8693548387096774,0
+playtime_60992,sales_3308,Littlest Pet Shop,Littlest Pet Shop: Garden,Nintendo DS,Nintendo DS,2008.0,2008.0,Electronic Arts,Electronic Arts,0.9224137931034484,1
+playtime_39005,sales_15167,Aegis of Earth: Protonovus Assault,Aegis of Earth: Protonovus Assault,PlayStation 4,PlayStation 4,2016.0,2016.0,Aksys Games,PQube,0.86875,1
+playtime_27095,sales_5780,Major League Baseball 2K8,Major League Baseball 2K8,PlayStation 3,PlayStation 3,2008.0,2008.0,2K Sports,Bethesda Softworks,0.9055555555555556,1
+playtime_20363,sales_4127,Viva Piñata: Trouble in Paradise,Viva Pinata: Trouble in Paradise,Xbox 360,Xbox 360,2008.0,2008.0,Microsoft Game Studios,Microsoft Game Studios,0.9859375,1
+playtime_71684,sales_5061,ZhuZhu Pets: Featuring the Wild Bunch,ZhuZhu Pets: Featuring The Wild Bunch,Wii,Wii,2010.0,2010.0,Activision,Activision,0.987837837837838,1
+playtime_21045,sales_12744,Wreckless: The Yakuza Missions,Wreckless: ThE YaKuza MisSiOns,Nintendo GameCube,Nintendo GameCube,2002.0,2002.0,Activision,Activision,0.94,1
+playtime_37028,sales_2966,New Style Boutique 2: Fashion Forward,Nintendo Presents: New Style Boutique 2 - Fashion Forward,Nintendo 3DS,Nintendo 3DS,2015.0,2015.0,Nintendo,Nintendo,0.9809859154929578,1
+playtime_4177,sales_877,Def Jam Vendetta,Def Jam Vendetta,PlayStation 2,PlayStation 2,2003.0,2003.0,EA Sports BIG,Electronic Arts,0.8928571428571428,1
+playtime_6086,sales_15838,FIFA 08,FIFA Soccer 08,PC,PC,2007.0,2007.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_48924,sales_16321,Tringo,Tringo,Game Boy Advance,Game Boy Advance,2006.0,2006.0,Crave,Liquid Games,0.8852941176470588,1
+playtime_14210,sales_13500,Resident Evil: Operation Raccoon City,Resident Evil 6,PC,PC,2012.0,2012.0,Capcom,Capcom,0.8630434782608696,0
+playtime_13340,sales_2058,Pro Evolution Soccer 2008,PES 2009: Pro Evolution Soccer,Xbox 360,Xbox 360,2008.0,2008.0,Konami,Konami Digital Entertainment,0.95,1
+playtime_9644,sales_5673,Live A Live(1994),Live A Live,Super Nintendo,Super Nintendo,1994.0,1994.0,Square,SquareSoft,0.9625,1
+playtime_10926,sales_7808,Might and Magic: Clash of Heroes,Might & Magic: Clash of Heroes,Nintendo DS,Nintendo DS,2009.0,2009.0,Ubisoft Entertainment,Ubisoft,0.9844827586206896,1
+playtime_17485,sales_6174,Syphon Filter: Logan's Shadow,Syphon Filter: Dark Mirror,PlayStation 2,PlayStation 2,2007.0,2007.0,Sony Computer Entertainment,Sony Computer Entertainment,0.865,1
+playtime_25227,sales_7164,Ben 10 Ultimate Alien: Cosmic Destruction,Ben 10 Ultimate Alien: Cosmic Destruction,PlayStation 2,PlayStation 2,2010.0,2010.0,D3 Publisher,D3Publisher,0.9934782608695653,1
+playtime_55528,sales_13102,Jim Henson's The Muppets: On With The Show!,Jim Henson's Muppets in Spy Muppets: License to Croak,Game Boy Advance,Game Boy Advance,2003.0,2003.0,TDK Mediactive,TDK Mediactive,0.865,1
+playtime_17267,sales_13769,Super Robot Taisen K,Super Robot Gakuen,Nintendo DS,Nintendo DS,2009.0,2009.0,Bandai,Namco Bandai Games,0.9052631578947368,0
+playtime_6706,sales_6898,Front Mission: Gun Hazard,Front Mission: Gun Hazard,Super Nintendo,Super Nintendo,1996.0,1996.0,Square,SquareSoft,0.9625,1
+playtime_14977,sales_13985,Scaler,Scaler,Nintendo GameCube,Nintendo GameCube,2004.0,2004.0,Global Star Software,Take-Two Interactive,0.8875,1
+playtime_31772,sales_11999,Super Robot Taisen OG: Dark Prison,Super Robot Taisen OG Saga: Masou Kishin III - Pride of Justice,PlayStation 3,PlayStation 3,2013.0,2013.0,Bandai Namco Games,Namco Bandai Games,0.8615384615384616,0
+playtime_37577,sales_3966,Disney Sing it,Disney Sing It,PlayStation 2,PlayStation 2,2008.0,2008.0,Disney Interactive Studios,Disney Interactive Studios,0.967857142857143,1
+playtime_18177,sales_3751,The Hobbit(2003),The Hobbit,PlayStation 2,PlayStation 2,2003.0,2003.0,Vivendi Universal,Vivendi Games,0.8511538461538461,1
+playtime_15547,sales_2497,Sid Meier's Civilization Revolution,Sid Meier's Civilization Revolution,Xbox 360,Xbox 360,2008.0,2008.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_6111,sales_1613,FIFA 11,2010 FIFA World Cup South Africa,PlayStation 3,PlayStation 3,2010.0,2010.0,Electronic Arts,Electronic Arts,0.8772727272727272,0
+playtime_4250,sales_14974,Demigod,Demigod,PC,PC,2009.0,2009.0,Stardock,Atari,0.9192307692307692,1
+playtime_67822,sales_8350,Home On The Range,Disney's Home on the Range,Game Boy Advance,Game Boy Advance,2004.0,2004.0,Disney Interactive,Disney Interactive Studios,0.8833333333333334,1
+playtime_29757,sales_10253,Astro Boy: The Video Game,Astro Boy: The Video Game,Wii,Wii,2009.0,2009.0,D3 Publisher,D3Publisher,0.9934782608695653,1
+playtime_11543,sales_4756,NBA 2K9,NBA 2K9,PlayStation 2,PlayStation 2,2008.0,2008.0,Sega,Take-Two Interactive,0.875,1
+playtime_40277,sales_13872,Song of the Deep,Song of the Deep,Xbox One,Xbox One,2016.0,2016.0,GameTrust Games,Insomniac Games,0.925,1
+playtime_11815,sales_5419,NHL 09,NHL 09,PlayStation 3,PlayStation 3,2008.0,2008.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_17179,sales_165,Super Mario Advance,Super Mario World,Game Boy Advance,Game Boy Advance,2001.0,2001.0,Nintendo,Nintendo,0.9035714285714288,1
+playtime_17536,sales_14405,Take On Helicopters,Take On Helicopters,PC,PC,2011.0,2011.0,Real Virtuality 3,Unknown,0.85,1
+playtime_10534,sales_8092,Mega Man X8,Mega Man X: Command Mission,PlayStation 2,PlayStation 2,2004.0,2004.0,Capcom,Capcom,0.9289473684210529,1
+playtime_16801,sales_10309,Starsky & Hutch,Starsky & Hutch,Nintendo GameCube,Nintendo GameCube,2003.0,2003.0,Empire Interactive,BAM! Entertainment,0.9166666666666666,1
+playtime_18546,sales_7218,The Lord of the Rings: The Third Age,The Lord of the Rings: The Third Age,Game Boy Advance,Game Boy Advance,2004.0,2004.0,EA Games,Electronic Arts,0.8891304347826087,1
+playtime_25428,sales_14279,Disney Sports: Soccer,Disney Sports Soccer,Nintendo GameCube,Nintendo GameCube,2002.0,2002.0,Konami,Konami Digital Entertainment,0.9890243902439024,1
+playtime_28558,sales_4267,EA Sports UFC,EA Sports UFC,Xbox One,Xbox One,2014.0,2014.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_5387,sales_7945,Earth Defense Force: Insect Armageddon,Earth Defense Force: Insect Armageddon,Xbox 360,Xbox 360,2011.0,2011.0,D3 Publisher,D3Publisher,0.9934782608695653,1
+playtime_7541,sales_887,Guitar Hero: Aerosmith,Guitar Hero: World Tour,PlayStation 3,PlayStation 3,2008.0,2008.0,Activision,Activision,0.8676470588235294,0
+playtime_10487,sales_3663,Mega Man Battle Network 2,Mega Man Zero,Game Boy Advance,Game Boy Advance,2002.0,2002.0,Capcom,Capcom,0.8928571428571429,0
+playtime_19029,sales_15874,Thunder Force VI,Thunder Force VI,PlayStation 2,PlayStation 2,2008.0,2008.0,Tetsu Okano,Sega,0.87,1
+playtime_41159,sales_11944,Rock Band: Country Track Pack 2,Rock Band Country Track Pack 2,PlayStation 3,PlayStation 3,2011.0,2011.0,Electronic Arts,MTV Games,0.8676229508196722,1
+playtime_32119,sales_15801,Pro Rally,Pro Rally,Nintendo GameCube,Nintendo GameCube,2002.0,2002.0,Ubi Soft Entertainment,Ubisoft,0.8913793103448275,1
+playtime_73084,sales_15504,Katekyoo Hitman Reborn! Dream Hyper Battle!,Katekyoo Hitman Reborn! Dream Hyper Battle!,PlayStation 2,PlayStation 2,2007.0,2007.0,Marvelous Entertainment,Marvelous Interactive,0.9659090909090908,1
+playtime_42914,sales_11659,Stuart Little 3: Big Photo Adventure,Stuart Little 3: Big Photo Adventure,PlayStation 2,PlayStation 2,2005.0,2005.0,Sega,Sony Computer Entertainment,0.8693548387096774,1
+playtime_12610,sales_3870,Petz: Catz 2,Petz: Hamsterz Life 2,Nintendo DS,Nintendo DS,2007.0,2007.0,Ubisoft,Ubisoft,0.8815789473684211,1
+playtime_32980,sales_7907,Jewel Master: Cradle of Athena,Jewel Master: Cradle of Athena,Nintendo DS,Nintendo DS,2010.0,2010.0,CokeM Interactive,Storm City Games,0.8954545454545454,1
+playtime_16666,sales_11159,Star Wars: Empire at War: Forces of Corruption,Star Wars: Empire at War,PC,PC,2006.0,2006.0,LucasArts,LucasArts,0.9590909090909092,1
+playtime_2385,sales_10574,Bully,The Ant Bully,PlayStation 2,PlayStation 2,2006.0,2006.0,Rockstar Games,Midway Games,0.9382352941176472,0
+playtime_79693,sales_11848,Roogoo Attack,Roogoo Attack!,Nintendo DS,Nintendo DS,2009.0,2009.0,SouthPeak Games,SouthPeak Games,0.9833333333333334,1
+playtime_31221,sales_50,Pokémon Omega Ruby and Alpha Sapphire Special Demo,Pokemon Omega Ruby/Pokemon Alpha Sapphire,Nintendo 3DS,Nintendo 3DS,2014.0,2014.0,Nintendo,Nintendo,0.8862637362637363,1
+playtime_16581,sales_10725,Star Trek: Shattered Universe,Star Trek: Shattered Universe,PlayStation 2,PlayStation 2,2004.0,2004.0,TDK Mediactive,Global Star,0.874,1
+playtime_21008,sales_15778,Worms World Party,Worms World Party,PC,PC,2001.0,2001.0,Titus Software,Virgin Interactive,0.896875,1
+playtime_13009,sales_751,Pokémon Ranger,Pokemon Ranger,Nintendo DS,Nintendo DS,2006.0,2006.0,Nintendo,Nintendo,0.967857142857143,1
+playtime_28324,sales_2226,Grand Slam Tennis,EA Sports Grand Slam Tennis,Wii,Wii,2009.0,2009.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_7704,sales_134,Halo 3: ODST,Halo 3: ODST,Xbox 360,Xbox 360,2009.0,2009.0,Bungie,Microsoft Game Studios,0.8714285714285714,1
+playtime_20892,sales_4523,Wonder Project J,Wonder Project J: Kikai no Shonen Pino,Super Nintendo,Super Nintendo,1994.0,1994.0,Enix,Enix Corporation,0.97,1
+playtime_4623,sales_1799,DJ Hero,Guitar Hero 5,Xbox 360,Xbox 360,2009.0,2009.0,Activision,Activision,0.8772727272727272,0
+playtime_36734,sales_7324,Crash 'n' Burn,Crash 'N' Burn,PlayStation 2,PlayStation 2,2004.0,2004.0,Eidos Interactive,Eidos Interactive,0.967857142857143,1
+playtime_8657,sales_3389,Jeopardy!(2010),Jeopardy!,Wii,Wii,2010.0,2010.0,THQ,THQ,0.8875000000000001,1
+playtime_8830,sales_6661,Just Dance 3,Just Dance Kids 2,PlayStation 3,PlayStation 3,2011.0,2011.0,Ubisoft,Ubisoft,0.9590909090909092,0
+playtime_27243,sales_4787,Hatsune Miku: Project DIVA F 2nd,Hatsune Miku: Project Diva F 2nd,PlayStation Vita,PlayStation Vita,2014.0,2014.0,Sega,Sega,0.9618644067796612,1
+playtime_30906,sales_6696,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,PlayStation 2,PlayStation 2,2008.0,2008.0,Sierra Entertainment,Vivendi Games,0.9045454545454544,1
+playtime_24611,sales_11954,Rock Band Track Pack: Metal,Rock Band Track Pack: Classic Rock,Xbox 360,Xbox 360,2009.0,2009.0,MTV Games,MTV Games,0.94375,1
+playtime_1196,sales_748,ATV Offroad Fury 2,ATV Offroad Fury 2,PlayStation 2,PlayStation 2,2002.0,2002.0,Sony Computer Entertainment America,THQ,0.85,1
+playtime_19316,sales_5170,Tom Clancy's Splinter Cell: Conviction,Tom Clancy's HAWX 2,Xbox 360,Xbox 360,2010.0,2010.0,Ubisoft,Ubisoft,0.8983870967741936,1
+playtime_11065,sales_3376,Monopoly(2008),Monopoly,Xbox 360,Xbox 360,2008.0,2008.0,Electronic Arts,Electronic Arts,0.8772727272727272,1
+playtime_28391,sales_9401,Over the Hedge,Over the Hedge: Hammy Goes Nuts!,Nintendo DS,Nintendo DS,2006.0,2006.0,Activision,Activision,0.8772727272727272,1
+playtime_4593,sales_1010,Disney's Magical Quest starring Mickey Mouse,Disney's Aladdin,Super Nintendo,Super Nintendo,1993.0,1993.0,Capcom,Capcom,0.85,1
+playtime_6150,sales_13041,FIFA Football 2004,FIFA Soccer 2004,Game Boy Advance,Game Boy Advance,2003.0,2003.0,Electronic Arts,Electronic Arts,0.8740000000000001,1
+playtime_9901,sales_241,Madden NFL 07,Madden NFL 07,PlayStation 2,PlayStation 2,2006.0,2006.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_11345,sales_4218,MX vs. ATV Alive,MX vs. ATV: Alive,PlayStation 3,PlayStation 3,2011.0,2011.0,THQ,THQ,0.9863636363636364,1
+playtime_35984,sales_417,FIFA 16,FIFA 16,Xbox One,Xbox One,2015.0,2015.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_28747,sales_5975,MLB Power Pros,MLB Power Pros,Wii,Wii,2007.0,2007.0,2K Sports,Konami Digital Entertainment,0.8743243243243243,1
+playtime_2512,sales_9432,Cabela's Dangerous Adventures,Cabela's Dangerous Hunts 2009,Xbox 360,Xbox 360,2008.0,2008.0,Activision,Activision,0.8946808510638298,1
+playtime_27242,sales_6631,Hatsune Miku: Project DIVA F 2nd,Hatsune Miku: Project Diva F 2nd,PlayStation 3,PlayStation 3,2014.0,2014.0,Sega,Sega,0.9618644067796612,1
+playtime_15139,sales_6488,Sengoku Basara X,Sengoku Basara 2,PlayStation 2,PlayStation 2,2006.0,2006.0,Capcom,Capcom,0.971875,1
+playtime_20097,sales_7646,Untold Legends: Dark Kingdom,Untold Legends: Dark Kingdom,PlayStation 3,PlayStation 3,2006.0,2006.0,Sony Online Entertainment,Electronic Arts,0.9025,1
+playtime_10565,sales_2166,Mega Man ZX,Mega Man Star Force Dragon / Leo / Pegasus,Nintendo DS,Nintendo DS,2006.0,2006.0,Capcom,Capcom,0.9289473684210529,1
+playtime_30135,sales_220,FIFA 15,FIFA 15,PlayStation 3,PlayStation 3,2014.0,2014.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_7819,sales_12685,Harry Potter and the Philosopher's Stone,Harry Potter and the Sorcerer's Stone,PC,PC,2001.0,2001.0,Electronic Arts,Electronic Arts,0.924025974025974,1
+playtime_8564,sales_7965,Jackie Chan Adventures: Legend of the Dark Hand,Jackie Chan Adventures: Legend of the Dark Hand,Game Boy Advance,Game Boy Advance,2001.0,2001.0,Sony,Activision,0.8928571428571428,1
+playtime_11041,sales_5005,Mobile Suit Gundam: Federation vs. Zeon,Mobile Suit Gundam: Giren no Yabou Zeon Dokuritsu Sensouden,PlayStation 2,PlayStation 2,2002.0,2002.0,Bandai,Namco Bandai Games,0.8928571428571429,1
+playtime_15024,sales_3372,Scribblenauts Unlimited,Scribblenauts: Unlimited,Nintendo 3DS,Nintendo 3DS,2012.0,2012.0,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,0.9904255319148936,1
+playtime_6360,sales_7091,Final Fantasy XII,Final Fantasy XI: Treasures of Aht Urhgan,PlayStation 2,PlayStation 2,2006.0,2006.0,Square Enix,Square Enix,0.94,1
+playtime_6041,sales_6064,Feel the Magic: XY/XX,Feel the Magic XY/XX,Nintendo DS,Nintendo DS,2004.0,2004.0,Sega,Sega,0.9890243902439024,1
+playtime_40679,sales_9539,Dragon Quest Builders,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,PlayStation 3,PlayStation 3,2016.0,2016.0,Square Enix,Square Enix,0.8772727272727272,1
+playtime_11519,sales_966,NBA 2K11,NBA 2K11,PlayStation 3,PlayStation 3,2010.0,2010.0,2K Sports,Take-Two Interactive,0.8706896551724138,1
+playtime_1803,sales_516,BioShock,BioShock,Xbox 360,Xbox 360,2007.0,2007.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_30206,sales_4028,LEGO Batman 3: Beyond Gotham,Lego Batman 3: Beyond Gotham,PlayStation Vita,PlayStation Vita,2014.0,2014.0,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,0.9558823529411764,1
+playtime_45071,sales_15563,Barbie as the Princess and the Pauper,Barbie as the Princess and the Pauper,Game Boy Advance,Game Boy Advance,2004.0,2004.0,VU Games,Vivendi Games,0.9653846153846152,1
+playtime_22338,sales_3273,Pac-Man Vs.,Pac-Man Player's Choice Bundle,Nintendo GameCube,Nintendo GameCube,2003.0,2003.0,Namco,Namco Bandai Games,0.9,1
+playtime_24608,sales_4352,Rock Band Track Pack: Country,Rock Band Country Track Pack,Wii,Wii,2009.0,2009.0,MTV Games,MTV Games,0.9921052631578948,1
+playtime_13439,sales_2575,Prototype 2,[Prototype 2],Xbox 360,Xbox 360,2012.0,2012.0,Activision,Activision,0.9625,1
+playtime_7040,sales_595,Ghostbusters: The Video Game,Ghostbusters: The Video Game (DS Version),Xbox 360,Xbox 360,2009.0,2009.0,Atari,Take-Two Interactive,0.886,1
+playtime_23884,sales_1180,Spyro 2: Season of Flame,Spyro 2: Season of Flame,Game Boy Advance,Game Boy Advance,2002.0,2002.0,Universal Interactive Studios,Vivendi Games,0.8999999999999999,1
+playtime_75068,sales_4939,Dancing With the Stars: We Dance!,Dancing with the Stars: We Dance!,Wii,Wii,2008.0,2008.0,Activision,Activision,0.9863636363636364,1
+playtime_13354,sales_4686,Pro Evolution Soccer 2011,pro evolution soccer 2011,PlayStation 2,PlayStation 2,2010.0,2010.0,Konami,Konami Digital Entertainment,0.946,1
+playtime_25157,sales_14397,Otomedius G,Otomedius Gorgeous,Xbox 360,Xbox 360,2008.0,2008.0,Konami,Konami Digital Entertainment,0.955,1
+playtime_5117,sales_1271,Drawn to Life: SpongeBob SquarePants Edition,Drawn To Life: SpongeBob SquarePants Edition,Nintendo DS,Nintendo DS,2008.0,2008.0,Play THQ,THQ,0.9897727272727274,1
+playtime_35906,sales_2883,Rhythm Tengoku: The Best Plus,Rhythm Heaven: The Best+,Nintendo 3DS,Nintendo 3DS,2015.0,2015.0,Nintendo,Nintendo,0.8726415094339623,1
+playtime_22256,sales_1894,NASCAR Thunder 2004,NASCAR Thunder 2004,PlayStation 2,PlayStation 2,2003.0,2003.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_7540,sales_963,Guitar Hero: Aerosmith,Guitar Hero: World Tour,PlayStation 2,PlayStation 2,2008.0,2008.0,Activision,Activision,0.8676470588235294,1
+playtime_33243,sales_410,Assassin's Creed Chronicles: China,Assassin's Creed Syndicate,PlayStation 4,PlayStation 4,2015.0,2015.0,Ubisoft,Ubisoft,0.8928571428571429,1
+playtime_13336,sales_615,Pro Evolution Soccer 2008,PES 2009: Pro Evolution Soccer,PlayStation 2,PlayStation 2,2008.0,2008.0,Konami,Konami Digital Entertainment,0.95,1
+playtime_17121,sales_2907,Super Bonk,Super Bomberman 3,Super Nintendo,Super Nintendo,1994.0,1994.0,Hudson Soft,Hudson Soft,0.85,1
+playtime_33595,sales_9106,RC Revenge Pro,Fur Fighters: Viggo's Revenge,PlayStation 2,PlayStation 2,2001.0,2001.0,Acclaim,Acclaim Entertainment,0.85,1
+playtime_55150,sales_2024,Rock Band Track Pack: Volume 1,Rock Band 2,Wii,Wii,2008.0,2008.0,MTV Games,MTV Games,0.955,1
+playtime_19239,sales_1746,Tom Clancy's Ghost Recon 2,Tom Clancy's Ghost Recon: Jungle Storm,PlayStation 2,PlayStation 2,2004.0,2004.0,Ubisoft,Ubisoft,0.9181818181818182,1
+playtime_1813,sales_997,BioShock Infinite,BioShock Infinite,PlayStation 3,PlayStation 3,2013.0,2013.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_579,sales_12362,Alien Syndrome(2007),Alien Syndrome,Wii,Wii,2007.0,2007.0,Sega,Sega,0.9205882352941176,1
+playtime_16274,sales_4526,Spec Ops: The Line,Spec Ops: The Line,Xbox 360,Xbox 360,2012.0,2012.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_54810,sales_4048,Bakugan Battle Brawlers: Battle Trainer,Bakugan Battle Brawlers: Defenders of the Core,Nintendo DS,Nintendo DS,2010.0,2010.0,Activision,Activision,0.9357142857142856,1
+playtime_30222,sales_9226,Persona 4 Arena Ultimax,Persona 4: Arena Ultimax,PlayStation 3,PlayStation 3,2014.0,2014.0,Atlus,Atlus,0.9904255319148936,1
+playtime_24935,sales_4243,Crayon Shin-Chan: Arashi wo Yobu Enji,Crayon Shin-Chan: Arashi o Yobu Enji,Super Nintendo,Super Nintendo,1993.0,1993.0,Bandai,Namco Bandai Games,0.9938356164383562,1
+playtime_7527,sales_1171,Guitar Hero On Tour: Decades,Guitar Hero: On Tour Decades,Nintendo DS,Nintendo DS,2008.0,2008.0,Activision,Activision,0.9839285714285716,1
+playtime_30926,sales_1423,NBA 2K15,NBA 2K15,PlayStation 3,PlayStation 3,2014.0,2014.0,2K Games,Take-Two Interactive,0.8821428571428571,1
+playtime_15693,sales_13135,Singularity,Singularity,PC,PC,2010.0,2010.0,Activision,Mastertronic,0.8909090909090909,1
+playtime_26641,sales_11016,Ben 10: Galactic Racing,Ben 10 Galactic Racing,PlayStation 3,PlayStation 3,2011.0,2011.0,D3 Publisher,D3Publisher,0.9834782608695652,1
+playtime_26670,sales_2967,MX vs. ATV: Untamed,MX vs. ATV Untamed,Xbox 360,Xbox 360,2007.0,2007.0,THQ,THQ,0.987837837837838,1
+playtime_25048,sales_3543,FIFA 07,FIFA World Cup Germany 2006,PlayStation 2,PlayStation 2,2006.0,2006.0,Electronic Arts,Electronic Arts,0.8772727272727272,1
+playtime_6236,sales_6496,Final Fantasy Crystal Chronicles: My Life as a Darklord,Final Fantasy Crystal Chronicles: Echoes of Time,Wii,Wii,2009.0,2009.0,Square Enix,Square Enix,0.9166666666666669,1
+playtime_43384,sales_6407,Payday 2: Crimewave Edition,Payday 2,PlayStation 4,PlayStation 4,2015.0,2015.0,505 Games,505 Games,0.9357142857142856,1
+playtime_88793,sales_11275,Animal Planet Vet Life,Animal Planet: Emergency Vets,Nintendo DS,Nintendo DS,2009.0,2009.0,Activision,Activision,0.8852941176470589,1
+playtime_3823,sales_6361,Dance Dance Revolution Universe 3,Rock Revolution,Xbox 360,Xbox 360,2008.0,2008.0,Konami,Konami Digital Entertainment,0.91,1
+playtime_30102,sales_14102,Turbo: Super Stunt Squad,Turbo: Super Stunt Squad,Nintendo DS,Nintendo DS,2013.0,2013.0,D3 Publisher,D3Publisher,0.9934782608695653,1
+playtime_29033,sales_9371,Scania Truck Driving Simulator,Euro Truck Simulator 2,PC,PC,2012.0,2012.0,SCS Software,SCS Software,0.914864864864865,1
+playtime_9643,sales_6735,Littlest Pet Shop: Beach Friends,Littlest Pet Shop: Country Friends,Nintendo DS,Nintendo DS,2009.0,2009.0,Electronic Arts,Electronic Arts,0.953448275862069,1
+playtime_11688,sales_11571,Need for Speed: Undercover,Need For Speed: Undercover,PC,PC,2008.0,2008.0,Electronic Arts,Electronic Arts,0.9826923076923078,1
+playtime_21912,sales_14871,Neverwinter Nights 2 Complete,Neverwinter Nights 2,PC,PC,2006.0,2006.0,Hasbro,Atari,0.9045454545454544,1
+playtime_13391,sales_648,Pro Wrestling(1987),Pro Wrestling,NES,NES,1987.0,1987.0,Nintendo,Nintendo,0.915625,1
+playtime_32139,sales_2016,Tiger Woods PGA Tour 08,Tiger Woods PGA Tour 08,Wii,Wii,2007.0,2007.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_10509,sales_4219,Mega Man Star Force 2,Mega Man Star Force 3: Black Ace / Red Joker,Nintendo DS,Nintendo DS,2008.0,2008.0,Capcom,Capcom,0.9775,1
+playtime_31649,sales_5586,Resident Evil: HD Remaster,Resident Evil: Revelations 2,PlayStation 3,PlayStation 3,2015.0,2015.0,Capcom,Capcom,0.8833333333333334,1
+playtime_38108,sales_14661,Kong: King of Atlantis,Kong: King of Atlantis,Game Boy Advance,Game Boy Advance,2005.0,2005.0,Majesco,THQ,0.85,1
+playtime_70390,sales_1325,4 Nin Uchi Mahjong,4 Nin uchi Mahjong,NES,NES,1984.0,1984.0,Nintendo,Nintendo,0.975,1
+playtime_7537,sales_344,Guitar Hero World Tour,Guitar Hero: World Tour,Wii,Wii,2008.0,2008.0,Activision,Activision,0.99,1
+playtime_8335,sales_1981,Imagine: Babies,Imagine: Animal Doctor,Nintendo DS,Nintendo DS,2007.0,2007.0,Ubisoft,Ubisoft,0.8630434782608696,1
+playtime_6984,sales_8957,Geometry Wars: Galaxies,Geometry Wars: Galaxies,Nintendo DS,Nintendo DS,2007.0,2007.0,Sierra,Vivendi Games,0.881578947368421,1
+playtime_52075,sales_570,Hannah Montana,Hannah Montana,Nintendo DS,Nintendo DS,2006.0,2006.0,Buena Vista Games,Disney Interactive Studios,0.8988372093023256,1
+playtime_7526,sales_736,Guitar Hero III: Legends of Rock,Guitar Hero II,Xbox 360,Xbox 360,2007.0,2007.0,Activision,Activision,0.946,1
+playtime_64531,sales_15058,Cocoto Magic Circus,Cocoto Magic Circus,Wii,Wii,2008.0,2008.0,Conspiracy Entertainment,Neko Entertainment,0.9758064516129032,1
+playtime_36890,sales_5760,Football Manager 2016,Football Manager 2016,PC,PC,2015.0,2015.0,SPORTS INTERACTIVE,Sega,0.8636363636363636,1
+playtime_30183,sales_3048,Borderlands: The Pre-Sequel!,Borderlands: The Pre-Sequel,PlayStation 3,PlayStation 3,2014.0,2014.0,2K Games,Take-Two Interactive,0.873961038961039,1
+playtime_38836,sales_13266,2002 FIFA World Cup,2002 FIFA World Cup,Nintendo GameCube,Nintendo GameCube,2002.0,2002.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_54687,sales_3520,Spongebob Squarepants featuring Nicktoons: Globs of Doom,SpongeBob SquarePants featuring Nicktoons: Globs of Doom,Nintendo DS,Nintendo DS,2008.0,2008.0,THQ,THQ,0.9839285714285716,1
+playtime_5793,sales_13266,F1 2002,2002 FIFA World Cup,Nintendo GameCube,Nintendo GameCube,2002.0,2002.0,Electronic Arts,Electronic Arts,0.8772727272727272,1
+playtime_65244,sales_1511,High School Musical 3: Senior Year Dance,High School Musical 3: Senior Year DANCE!,Wii,Wii,2008.0,2008.0,Disney Interactive Studios,Disney Interactive Studios,0.9635135135135136,1
+playtime_14927,sales_4387,Samurai Warriors,Samurai Warriors: Xtreme Legends,PlayStation 2,PlayStation 2,2004.0,2004.0,Koei,Tecmo Koei,0.85,1
+playtime_10491,sales_10351,Mega Man Battle Network 5,Mega Man Battle Network 5: Double Team DS (JP sales),Nintendo DS,Nintendo DS,2005.0,2005.0,Capcom,Nintendo,0.8526785714285714,1
+playtime_15444,sales_9565,Shining Force EXA,Shining Wind,PlayStation 2,PlayStation 2,2007.0,2007.0,Sega,Sega,0.8815789473684211,1
+playtime_15508,sales_5728,Shrek Forever After,Shrek: Forever After,Nintendo DS,Nintendo DS,2010.0,2010.0,Activision,Activision,0.9884615384615384,1
+playtime_952,sales_4340,Area 51(2005),Area 51,PlayStation 2,PlayStation 2,2005.0,2005.0,Midway,Midway Games,0.8772727272727272,1
+playtime_34949,sales_6887,Densetsu no Stafy 3,Densetsu no Stafi 3,Game Boy Advance,Game Boy Advance,2004.0,2004.0,Nintendo,Nintendo,0.9763157894736842,1
+playtime_56151,sales_12612,Dragon Rage(2001),Dragon Rage,PlayStation 2,PlayStation 2,2001.0,2001.0,3DO,3DO,0.9035714285714288,1
+playtime_9065,sales_2386,Kingdom Hearts Re:Chain of Memories,Kingdom Hearts Re: Chain of Memories,PlayStation 2,PlayStation 2,2008.0,2008.0,Square Enix,Square Enix,0.9556338028169014,1
+playtime_13584,sales_8541,Puzzle Quest: Galactrix,Puzzle Quest: Galactrix,Nintendo DS,Nintendo DS,2009.0,2009.0,D3 Publisher,D3Publisher,0.9934782608695653,1
+playtime_18533,sales_11679,The Lord of the Rings: The Battle for Middle-earth,The Lord of the Rings: The Battle for Middle-Earth,PC,PC,2004.0,2004.0,EA Games,Electronic Arts,0.8793478260869565,1
+playtime_27774,sales_5322,MotoGP '08,MotoGP 08,Xbox 360,Xbox 360,2008.0,2008.0,Capcom,Capcom,0.9763157894736842,1
+playtime_14202,sales_1364,Resident Evil Zero,Resident Evil (Remake),Nintendo GameCube,Nintendo GameCube,2002.0,2002.0,Capcom,Capcom,0.9274193548387096,1
+playtime_3964,sales_7823,Dave Mirra Freestyle BMX 2,Dave Mirra Freestyle BMX 2,Game Boy Advance,Game Boy Advance,2001.0,2001.0,Acclaim Max Sports,Acclaim Entertainment,0.934,1
+playtime_3942,sales_14055,DarkStar One,DarkStar One,PC,PC,2006.0,2006.0,CDV Software,Ubisoft,0.8973684210526316,1
+playtime_6244,sales_1701,Final Fantasy I & II: Dawn of Souls,Final Fantasy I & II: Dawn of Souls,Game Boy Advance,Game Boy Advance,2004.0,2004.0,Square,Nintendo,0.8714285714285714,1
+playtime_18637,sales_950,The Orange Box,The Orange Box,Xbox 360,Xbox 360,2007.0,2007.0,Valve Corporation,Electronic Arts,0.896875,1
+playtime_9514,sales_5403,Leisure Suit Larry: Magna Cum Laude,Leisure Suit Larry: Magna Cum Laude,PlayStation 2,PlayStation 2,2004.0,2004.0,Sierra Entertainment,Vivendi Games,0.9045454545454544,1
+playtime_16082,sales_5790,Sorcery(2012),Sorcery,PlayStation 3,PlayStation 3,2012.0,2012.0,Sony Computer Entertainment,Sony Computer Entertainment,0.865,1
+playtime_14565,sales_5913,Rock Revolution,Dance Dance Revolution Universe 3,Xbox 360,Xbox 360,2008.0,2008.0,Konami,Konami Digital Entertainment,0.91,1
+playtime_7550,sales_3200,Guitar Hero: Van Halen,Guitar Hero: Metallica,PlayStation 3,PlayStation 3,2009.0,2009.0,Activision,Activision,0.8772727272727272,1
+playtime_12852,sales_15707,Pirates: Legend of the Black Buccaneer,Pirates: Legend of the Black Buccaneer,PlayStation 2,PlayStation 2,2006.0,2006.0,Valcon Games,10TACLE Studios,0.8722222222222222,1
+playtime_23257,sales_4212,Pirates of the Caribbean: Dead Man's Chest,Pirates of the Caribbean: Dead Man's Chest,Game Boy Advance,Game Boy Advance,2006.0,2006.0,Buena Vista Games,Disney Interactive Studios,0.8988372093023256,1
+playtime_4749,sales_1461,Donkey Konga,Donkey Kong Jungle Beat,Nintendo GameCube,Nintendo GameCube,2004.0,2004.0,Nintendo,Nintendo,0.85,1
+playtime_12602,sales_9375,Peter Jackson's King Kong,Peter Jackson's King Kong: The Official Game of the Movie,Nintendo DS,Nintendo DS,2005.0,2005.0,Ubisoft,Ubisoft,0.95,1
+playtime_19426,sales_1712,Tony Hawk's Pro Skater 3,Tony Hawk's Pro Skater 2,Game Boy Advance,Game Boy Advance,2001.0,2001.0,Activision,Activision,0.98125,1
+playtime_39547,sales_437,Guinness World Records: The Videogame,LEGO Batman: The Videogame,Nintendo DS,Nintendo DS,2008.0,2008.0,Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment,0.85,1
+playtime_15691,sales_1427,SingStar ABBA,SingStar Abba,PlayStation 2,PlayStation 2,2008.0,2008.0,Sony Computer Entertainment,Sony Computer Entertainment,0.8961538461538462,1
+playtime_14130,sales_5274,Remember Me(2013),Remember Me,PlayStation 3,PlayStation 3,2013.0,2013.0,Capcom,Capcom,0.9289473684210529,1
+playtime_10534,sales_3427,Mega Man X8,Mega Man Anniversary Collection,PlayStation 2,PlayStation 2,2004.0,2004.0,Capcom,Capcom,0.9289473684210529,1
+playtime_20221,sales_8154,Velvet Assassin,Velvet Assassin,Xbox 360,Xbox 360,2009.0,2009.0,SouthPeak Games,DTP Entertainment,0.8875,1
+playtime_1569,sales_14587,Battlefield Vietnam,Battlefield 1942: The WW II Anthology,PC,PC,2004.0,2004.0,Electronic Arts,Electronic Arts,0.88,1
+playtime_11605,sales_4117,NCAA Football 09,NCAA Football 09,PlayStation 2,PlayStation 2,2008.0,2008.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_27552,sales_5896,Yu Yu Hakusho: Spirit Detective,Yu Yu Hakusho Ghost Files: Spirit Detective,Game Boy Advance,Game Boy Advance,2003.0,2003.0,Atari,Atari,0.9138297872340426,1
+playtime_11610,sales_2556,NCAA Football 10,NCAA Football 10,PlayStation 3,PlayStation 3,2009.0,2009.0,EA Sports,Electronic Arts,0.8999999999999999,1
+playtime_6098,sales_2318,FIFA 09,FIFA Soccer 09 All-Play,Wii,Wii,2008.0,2008.0,EA Sports,Electronic Arts,0.8999999999999999,1
