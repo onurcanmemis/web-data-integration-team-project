@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+out_parquet/*
+
+.DS_Store
+__pycache__
+.venv
+.env

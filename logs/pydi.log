@@ -1,0 +1,2876 @@
+[INFO ] PyDI.fusion.analysis - Analyzed 17 attributes across 3 datasets
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 48978 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 10405 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 1476 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 111897 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 14492 token keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 8724 token keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 8356 blocks from token keys
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_TokenBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.3
+[INFO ] root -   Pair Completeness: 0.072
+[INFO ] root -   Pair Quality:      0.004
+[INFO ] root -   Reduction Ratio:   0.999995
+[INFO ] root -   True Matches Found: 27/375
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.992
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999668
+[INFO ] root -   True Matches Found: 372/375
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.106
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999995
+[INFO ] root -   True Matches Found: 10/94
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 1.000
+[INFO ] root -   Pair Quality:      0.000
+[INFO ] root -   Reduction Ratio:   0.999668
+[INFO ] root -   True Matches Found: 94/94
+[INFO ] root - Blocking evaluation complete!
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 48978 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 11917 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 2731 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 113829 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 14492 token keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 10123 token keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 9244 blocks from token keys
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_TokenBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.3
+[INFO ] root -   Pair Completeness: 0.106
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999995
+[INFO ] root -   True Matches Found: 10/94
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 1.000
+[INFO ] root -   Pair Quality:      0.000
+[INFO ] root -   Reduction Ratio:   0.999668
+[INFO ] root -   True Matches Found: 94/94
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.253
+[INFO ] root -   Pair Quality:      0.002
+[INFO ] root -   Reduction Ratio:   0.999991
+[INFO ] root -   True Matches Found: 24/95
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.874
+[INFO ] root -   Pair Quality:      0.000
+[INFO ] root -   Reduction Ratio:   0.999691
+[INFO ] root -   True Matches Found: 83/95
+[INFO ] root - Blocking evaluation complete!
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 14666 elements after 0:00:1.149; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:53.122; found 28313 correspondences.
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  88
+[INFO ] root -   True Negatives:  105
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 6
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.970
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.936
+[INFO ] root -   F1-Score:  0.967
+[INFO ] root - Label distribution: 375 positive, 420 negative
+[INFO ] root - Label distribution: 378 positive, 418 negative
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 97231 x 14666 elements after 0:00:0.572; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:81.528; found 376092 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 97231 x 16598 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 97231 x 16598 elements after 0:00:0.210; 498960 blocked pairs (reduction ratio: 0.999690824395644)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:84.808; found 193428 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 14666 elements after 0:00:0.502; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:50.981; found 13409 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 16598 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 16598 elements after 0:00:0.240; 498960 blocked pairs (reduction ratio: 0.999690824395644)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 14666 elements after 0:00:0.263; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 14666 elements after 0:00:0.213; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:49.632; found 13409 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 16598 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 16598 elements after 0:00:0.222; 498960 blocked pairs (reduction ratio: 0.999690824395644)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:50.109; found 24966 correspondences.
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  88
+[INFO ] root -   True Negatives:  105
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 6
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.970
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.936
+[INFO ] root -   F1-Score:  0.967
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  69
+[INFO ] root -   True Negatives:  104
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 26
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.869
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.726
+[INFO ] root -   F1-Score:  0.841
+[INFO ] root - Label distribution: 375 positive, 420 negative
+[INFO ] root - Label distribution: 378 positive, 418 negative
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 97231 x 14666 elements after 0:00:0.246; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:87.344; found 376092 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 97231 x 16598 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 97231 x 16598 elements after 0:00:0.211; 498960 blocked pairs (reduction ratio: 0.999690824395644)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:92.358; found 193428 correspondences.
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  94
+[INFO ] root -   True Negatives:  105
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 0
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  1.000
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    1.000
+[INFO ] root -   F1-Score:  1.000
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  83
+[INFO ] root -   True Negatives:  104
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 12
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.940
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.874
+[INFO ] root -   F1-Score:  0.933
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'longest_string'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'longest_string'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - Attribute Consistencies:
+[INFO ] PyDI.fusion.engine -     _id: 0.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.14
+[INFO ] PyDI.fusion.engine -     critic_score: 0.05
+[INFO ] PyDI.fusion.engine -     developer: 0.21
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.13
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     genres: 0.07
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.25
+[INFO ] PyDI.fusion.engine -     id: 0.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.36
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.14
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.18
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.30
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     platform: 0.05
+[INFO ] PyDI.fusion.engine -     publisher: 0.10
+[INFO ] PyDI.fusion.engine -     release_year: 0.09
+[INFO ] PyDI.fusion.engine -     title: 0.08
+[INFO ] PyDI.fusion.engine -     user_score: 0.06
+[INFO ] PyDI.fusion.engine - *    Running data fusion    *
+[INFO ] PyDI.fusion.engine - Fusion complete: 529 records from 529 groups
+[INFO ] PyDI.fusion.engine - Fusion time: 30.84 seconds
+[INFO ] PyDI.fusion.engine - DataSet density: 0.93
+[INFO ] PyDI.fusion.engine - Attributes densities:
+[INFO ] PyDI.fusion.engine -     _id: 1.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.88
+[INFO ] PyDI.fusion.engine -     critic_score: 0.71
+[INFO ] PyDI.fusion.engine -     developer: 0.98
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.71
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     genres: 1.00
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     id: 1.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.90
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.96
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     platform: 1.00
+[INFO ] PyDI.fusion.engine -     publisher: 1.00
+[INFO ] PyDI.fusion.engine -     release_year: 1.00
+[INFO ] PyDI.fusion.engine -     title: 1.00
+[INFO ] PyDI.fusion.engine -     user_score: 0.71
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'longest_string'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - Attribute Consistencies:
+[INFO ] PyDI.fusion.engine -     _id: 0.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.14
+[INFO ] PyDI.fusion.engine -     critic_score: 0.05
+[INFO ] PyDI.fusion.engine -     developer: 0.21
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.13
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     genres: 0.07
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.25
+[INFO ] PyDI.fusion.engine -     id: 0.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.36
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.14
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.18
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.30
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     platform: 0.05
+[INFO ] PyDI.fusion.engine -     publisher: 0.10
+[INFO ] PyDI.fusion.engine -     release_year: 0.09
+[INFO ] PyDI.fusion.engine -     title: 0.08
+[INFO ] PyDI.fusion.engine -     user_score: 0.06
+[INFO ] PyDI.fusion.engine - *    Running data fusion    *
+[INFO ] PyDI.fusion.engine - Fusion complete: 529 records from 529 groups
+[INFO ] PyDI.fusion.engine - Fusion time: 32.18 seconds
+[INFO ] PyDI.fusion.engine - DataSet density: 0.93
+[INFO ] PyDI.fusion.engine - Attributes densities:
+[INFO ] PyDI.fusion.engine -     _id: 1.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.88
+[INFO ] PyDI.fusion.engine -     critic_score: 0.71
+[INFO ] PyDI.fusion.engine -     developer: 0.98
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.71
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     genres: 1.00
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     id: 1.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.90
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.96
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     platform: 1.00
+[INFO ] PyDI.fusion.engine -     publisher: 1.00
+[INFO ] PyDI.fusion.engine -     release_year: 1.00
+[INFO ] PyDI.fusion.engine -     title: 1.00
+[INFO ] PyDI.fusion.engine -     user_score: 0.71
+[INFO ] PyDI.fusion.analysis - Analyzed 18 attributes across 3 datasets
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 48978 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 10405 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 1476 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 111897 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 14492 token keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 8724 token keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 8356 blocks from token keys
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_TokenBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.3
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 48978 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 11917 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 2731 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 113829 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 14492 token keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 10123 token keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - created 9244 blocks from token keys
+[INFO ] PyDI.entitymatching.blocking.token_blocking.TokenBlocker - Debug results written to file: /Users/abd/Developer/wdi-project/output/blocking_evaluation/debugResultsBlocking_TokenBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.3
+[INFO ] root -   Pair Completeness: 0.106
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999995
+[INFO ] root -   True Matches Found: 10/94
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 1.000
+[INFO ] root -   Pair Quality:      0.000
+[INFO ] root -   Reduction Ratio:   0.999668
+[INFO ] root -   True Matches Found: 94/94
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.253
+[INFO ] root -   Pair Quality:      0.002
+[INFO ] root -   Reduction Ratio:   0.999991
+[INFO ] root -   True Matches Found: 24/95
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.874
+[INFO ] root -   Pair Quality:      0.000
+[INFO ] root -   Reduction Ratio:   0.999691
+[INFO ] root -   True Matches Found: 83/95
+[INFO ] root - Blocking evaluation complete!
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 14666 elements after 0:00:0.211; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:49.010; found 13409 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 97231 x 16598 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 97231 x 16598 elements after 0:00:0.199; 498960 blocked pairs (reduction ratio: 0.999690824395644)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:51.772; found 24966 correspondences.
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  88
+[INFO ] root -   True Negatives:  105
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 6
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.970
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.936
+[INFO ] root -   F1-Score:  0.967
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  69
+[INFO ] root -   True Negatives:  104
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 26
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.869
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.726
+[INFO ] root -   F1-Score:  0.841
+[INFO ] root - Label distribution: 375 positive, 420 negative
+[INFO ] root - Label distribution: 378 positive, 418 negative
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 97231 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 97231 x 14666 elements after 0:00:0.255; 473866 blocked pairs (reduction ratio: 0.9996676932859451)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:84.216; found 376092 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 97231 x 16598 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 97231 x 16598 elements after 0:00:0.196; 498960 blocked pairs (reduction ratio: 0.999690824395644)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:85.778; found 193428 correspondences.
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  94
+[INFO ] root -   True Negatives:  105
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 0
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  1.000
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    1.000
+[INFO ] root -   F1-Score:  1.000
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  83
+[INFO ] root -   True Negatives:  104
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 12
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.940
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.874
+[INFO ] root -   F1-Score:  0.933
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'longest_string'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - Attribute Consistencies:
+[INFO ] PyDI.fusion.engine -     _id: 0.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.14
+[INFO ] PyDI.fusion.engine -     critic_score: 0.05
+[INFO ] PyDI.fusion.engine -     developer: 0.21
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.13
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     genres: 0.07
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.25
+[INFO ] PyDI.fusion.engine -     id: 0.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.36
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.14
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.18
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.30
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     platform: 0.05
+[INFO ] PyDI.fusion.engine -     publisher: 0.10
+[INFO ] PyDI.fusion.engine -     release_year: 0.09
+[INFO ] PyDI.fusion.engine -     title: 0.08
+[INFO ] PyDI.fusion.engine -     user_score: 0.06
+[INFO ] PyDI.fusion.engine - *    Running data fusion    *
+[INFO ] PyDI.fusion.engine - Fusion complete: 529 records from 529 groups
+[INFO ] PyDI.fusion.engine - Fusion time: 31.23 seconds
+[INFO ] PyDI.fusion.engine - DataSet density: 0.93
+[INFO ] PyDI.fusion.engine - Attributes densities:
+[INFO ] PyDI.fusion.engine -     _id: 1.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.88
+[INFO ] PyDI.fusion.engine -     critic_score: 0.71
+[INFO ] PyDI.fusion.engine -     developer: 0.98
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.71
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     genres: 1.00
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     id: 1.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.90
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.96
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     platform: 1.00
+[INFO ] PyDI.fusion.engine -     publisher: 1.00
+[INFO ] PyDI.fusion.engine -     release_year: 1.00
+[INFO ] PyDI.fusion.engine -     title: 1.00
+[INFO ] PyDI.fusion.engine -     user_score: 0.71
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - Attribute Consistencies:
+[INFO ] PyDI.fusion.engine -     _id: 0.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.14
+[INFO ] PyDI.fusion.engine -     critic_score: 0.05
+[INFO ] PyDI.fusion.engine -     developer: 0.21
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.13
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     genres: 0.07
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.25
+[INFO ] PyDI.fusion.engine -     id: 0.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.36
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.14
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.18
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.30
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     platform: 0.05
+[INFO ] PyDI.fusion.engine -     publisher: 0.10
+[INFO ] PyDI.fusion.engine -     release_year: 0.09
+[INFO ] PyDI.fusion.engine -     title: 0.08
+[INFO ] PyDI.fusion.engine -     user_score: 0.06
+[INFO ] PyDI.fusion.engine - *    Running data fusion    *
+[INFO ] PyDI.fusion.engine - Fusion complete: 529 records from 529 groups
+[INFO ] PyDI.fusion.engine - Fusion time: 35.77 seconds
+[INFO ] PyDI.fusion.engine - DataSet density: 0.93
+[INFO ] PyDI.fusion.engine - Attributes densities:
+[INFO ] PyDI.fusion.engine -     _id: 1.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.88
+[INFO ] PyDI.fusion.engine -     critic_score: 0.71
+[INFO ] PyDI.fusion.engine -     developer: 0.98
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.71
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     genres: 1.00
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     id: 1.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.90
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.96
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     platform: 1.00
+[INFO ] PyDI.fusion.engine -     publisher: 1.00
+[INFO ] PyDI.fusion.engine -     release_year: 1.00
+[INFO ] PyDI.fusion.engine -     title: 1.00
+[INFO ] PyDI.fusion.engine -     user_score: 0.71
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'longest_string'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - Attribute Consistencies:
+[INFO ] PyDI.fusion.engine -     _id: 0.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.14
+[INFO ] PyDI.fusion.engine -     critic_score: 0.05
+[INFO ] PyDI.fusion.engine -     developer: 0.21
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.13
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     genres: 0.07
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.25
+[INFO ] PyDI.fusion.engine -     id: 0.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.36
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.14
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.18
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.30
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     platform: 0.05
+[INFO ] PyDI.fusion.engine -     publisher: 0.10
+[INFO ] PyDI.fusion.engine -     release_year: 0.09
+[INFO ] PyDI.fusion.engine -     title: 0.08
+[INFO ] PyDI.fusion.engine -     user_score: 0.06
+[INFO ] PyDI.fusion.engine - *    Running data fusion    *
+[INFO ] PyDI.fusion.engine - Fusion complete: 529 records from 529 groups
+[INFO ] PyDI.fusion.engine - Fusion time: 32.21 seconds
+[INFO ] PyDI.fusion.engine - DataSet density: 0.93
+[INFO ] PyDI.fusion.engine - Attributes densities:
+[INFO ] PyDI.fusion.engine -     _id: 1.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.88
+[INFO ] PyDI.fusion.engine -     critic_score: 0.71
+[INFO ] PyDI.fusion.engine -     developer: 0.98
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.71
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     genres: 1.00
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     id: 1.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.90
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.96
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     platform: 1.00
+[INFO ] PyDI.fusion.engine -     publisher: 1.00
+[INFO ] PyDI.fusion.engine -     release_year: 1.00
+[INFO ] PyDI.fusion.engine -     title: 1.00
+[INFO ] PyDI.fusion.engine -     user_score: 0.71
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'developer' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'publisher' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'longest_string'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - Attribute Consistencies:
+[INFO ] PyDI.fusion.engine -     _id: 0.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.14
+[INFO ] PyDI.fusion.engine -     critic_score: 0.05
+[INFO ] PyDI.fusion.engine -     developer: 0.21
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.13
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     genres: 0.07
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.25
+[INFO ] PyDI.fusion.engine -     id: 0.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.36
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.14
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.18
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.30
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     platform: 0.05
+[INFO ] PyDI.fusion.engine -     publisher: 0.10
+[INFO ] PyDI.fusion.engine -     release_year: 0.09
+[INFO ] PyDI.fusion.engine -     title: 0.08
+[INFO ] PyDI.fusion.engine -     user_score: 0.06
+[INFO ] PyDI.fusion.engine - *    Running data fusion    *
+[INFO ] PyDI.fusion.engine - Fusion complete: 529 records from 529 groups
+[INFO ] PyDI.fusion.engine - Fusion time: 37.11 seconds
+[INFO ] PyDI.fusion.engine - DataSet density: 0.93
+[INFO ] PyDI.fusion.engine - Attributes densities:
+[INFO ] PyDI.fusion.engine -     _id: 1.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.88
+[INFO ] PyDI.fusion.engine -     critic_score: 0.71
+[INFO ] PyDI.fusion.engine -     developer: 0.98
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.71
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     genres: 1.00
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     id: 1.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.90
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.96
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     platform: 1.00
+[INFO ] PyDI.fusion.engine -     publisher: 1.00
+[INFO ] PyDI.fusion.engine -     release_year: 1.00
+[INFO ] PyDI.fusion.engine -     title: 1.00
+[INFO ] PyDI.fusion.engine -     user_score: 0.71
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'title' using rule 'longest_string'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'developer' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'publisher' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'release_year' using rule 'prefer_higher_trust'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'platform' using rule 'voting'
+[INFO ] PyDI.fusion.strategy - Registered fuser for attribute 'genres' using rule 'union'
+[INFO ] PyDI.fusion.engine - Fusion debug logging enabled; refer to output/data_fusion/debug_fusion_ml_standard_blocker.jsonl for detailed traces.
+[INFO ] PyDI.fusion.engine - Starting data fusion with strategy 'video_games_fusion_strategy'
+[INFO ] PyDI.fusion.engine - *    Loading correspondences    *
+[INFO ] PyDI.fusion.engine - Correspondence ID coverage: matched 116679 of 116679 unique IDs
+[INFO ] PyDI.fusion.engine - Created 12345 record groups from 569520 correspondences
+[INFO ] PyDI.fusion.engine - Group Size Distribution of 12345 clusters:
+[INFO ] PyDI.fusion.engine - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.fusion.engine - 	──────────────────────────────────────────────────
+[INFO ] PyDI.fusion.engine - 		2	|	72	|	0.58%
+[INFO ] PyDI.fusion.engine - 		3	|	19	|	0.15%
+[INFO ] PyDI.fusion.engine - 		4	|	13	|	0.11%
+[INFO ] PyDI.fusion.engine - 		5	|	8	|	0.06%
+[INFO ] PyDI.fusion.engine - 		6	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		7	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		8	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		9	|	5	|	0.04%
+[INFO ] PyDI.fusion.engine - 		10	|	7	|	0.06%
+[INFO ] PyDI.fusion.engine - 		11	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		12	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		14	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		16	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		17	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		18	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		19	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		23	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		25	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		26	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		27	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		29	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		32	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		33	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		34	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		36	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		39	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		41	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		42	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		43	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		45	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		46	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		47	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		49	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		50	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		51	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		52	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		53	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		54	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		55	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		56	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		57	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		58	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		59	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		62	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		63	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		64	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		65	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		66	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		68	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		71	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		72	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		73	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		74	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		77	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		78	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		79	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		80	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		81	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		82	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		83	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		85	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		86	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		87	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		93	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		96	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		97	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		98	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		99	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		102	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		104	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		105	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		106	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		107	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		108	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		109	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		111	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		112	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		113	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		114	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		115	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		117	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		118	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		119	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		120	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		122	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		123	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		124	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		126	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		129	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		133	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		137	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		138	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		139	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		140	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		142	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		143	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		144	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		145	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		146	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		147	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		149	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		151	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		152	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		153	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		154	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		155	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		156	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		157	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		158	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		159	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		161	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		162	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		167	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		169	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		171	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		174	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		176	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		178	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		179	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		180	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		182	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		183	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		184	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		185	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		189	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		190	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		191	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		192	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		194	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		195	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		198	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		200	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		205	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		208	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		209	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		210	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		212	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		213	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		215	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		216	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		220	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		221	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		224	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		225	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		229	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		232	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		235	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		237	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		238	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		239	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		247	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		251	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		252	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		254	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		256	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		259	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		261	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		265	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		267	|	4	|	0.03%
+[INFO ] PyDI.fusion.engine - 		269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		271	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		274	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		276	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		284	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		297	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		299	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		306	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		307	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		314	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		317	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		319	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		321	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		324	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		325	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		327	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		328	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		333	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		339	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		342	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		351	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		352	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		356	|	3	|	0.02%
+[INFO ] PyDI.fusion.engine - 		363	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		371	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		375	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		381	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		389	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		390	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		393	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		394	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		398	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		401	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		409	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		412	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		427	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		435	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		443	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		446	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		449	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		461	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		467	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		470	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		472	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		477	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		481	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		500	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		503	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		505	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		507	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		508	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		522	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		523	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		525	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		530	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		542	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		544	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		546	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		548	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		576	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		590	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		607	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		631	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		645	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		649	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		654	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		657	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		661	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		663	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		664	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		669	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		671	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		691	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		705	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		706	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		707	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		716	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		727	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		741	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		743	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		750	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		783	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		785	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		787	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		790	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		792	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		800	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		802	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		812	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		845	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		855	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		868	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		869	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		887	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		929	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		948	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		957	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		969	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1017	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1040	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1111	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1132	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1269	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1302	|	2	|	0.02%
+[INFO ] PyDI.fusion.engine - 		1322	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1345	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1516	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1537	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1543	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1807	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1856	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		1883	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - 		2166	|	1	|	0.01%
+[INFO ] PyDI.fusion.engine - Attribute Consistencies:
+[INFO ] PyDI.fusion.engine -     _id: 0.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.14
+[INFO ] PyDI.fusion.engine -     critic_score: 0.05
+[INFO ] PyDI.fusion.engine -     developer: 0.21
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.13
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     genres: 0.07
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.25
+[INFO ] PyDI.fusion.engine -     id: 0.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.36
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.14
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.18
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.30
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.31
+[INFO ] PyDI.fusion.engine -     platform: 0.05
+[INFO ] PyDI.fusion.engine -     publisher: 0.10
+[INFO ] PyDI.fusion.engine -     release_year: 0.09
+[INFO ] PyDI.fusion.engine -     title: 0.08
+[INFO ] PyDI.fusion.engine -     user_score: 0.06
+[INFO ] PyDI.fusion.engine - *    Running data fusion    *
+[INFO ] PyDI.fusion.engine - Fusion complete: 529 records from 529 groups
+[INFO ] PyDI.fusion.engine - Fusion time: 40.59 seconds
+[INFO ] PyDI.fusion.engine - DataSet density: 0.93
+[INFO ] PyDI.fusion.engine - Attributes densities:
+[INFO ] PyDI.fusion.engine -     _id: 1.00
+[INFO ] PyDI.fusion.engine -     completionist_hour: 0.88
+[INFO ] PyDI.fusion.engine -     critic_score: 0.71
+[INFO ] PyDI.fusion.engine -     developer: 0.98
+[INFO ] PyDI.fusion.engine -     esrb_rating: 0.71
+[INFO ] PyDI.fusion.engine -     eu_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     genres: 1.00
+[INFO ] PyDI.fusion.engine -     global_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     id: 1.00
+[INFO ] PyDI.fusion.engine -     jp_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     main_plus_sides_hour: 0.90
+[INFO ] PyDI.fusion.engine -     main_story_hour: 0.96
+[INFO ] PyDI.fusion.engine -     na_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     other_sales_mil: 0.98
+[INFO ] PyDI.fusion.engine -     platform: 1.00
+[INFO ] PyDI.fusion.engine -     publisher: 1.00
+[INFO ] PyDI.fusion.engine -     release_year: 1.00
+[INFO ] PyDI.fusion.engine -     title: 1.00
+[INFO ] PyDI.fusion.engine -     user_score: 0.71
