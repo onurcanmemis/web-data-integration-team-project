@@ -8,7 +8,7 @@
   "false_negatives": 13,
   "true_negatives": 104,
   "threshold_used": 0.0,
-  "total_correspondences": 186259,
-  "filtered_correspondences": 186259,
-  "evaluation_timestamp": "2025-11-20T22:26:37.645403"
+  "total_correspondences": 125226,
+  "filtered_correspondences": 125226,
+  "evaluation_timestamp": "2025-11-23T00:43:08.034878"
 }
