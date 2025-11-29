@@ -13065,3 +13065,1298 @@
 [INFO ] root -   Precision: 1.000
 [INFO ] root -   Recall:    0.863
 [INFO ] root -   F1-Score:  0.927
+[INFO ] PyDI.fusion.analysis - Analyzed 19 attributes across 3 datasets
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 42002 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 9863 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 6797 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 99111 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.6
+[INFO ] sentence_transformers.SentenceTransformer - Use pytorch device_name: mps
+[INFO ] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Loaded sentence transformer model: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for first dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for second dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created similarity index with 14666 vectors, metric=cosine
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_EmbeddingBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 42002 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 11332 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 5755 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 100770 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.6
+[INFO ] sentence_transformers.SentenceTransformer - Use pytorch device_name: mps
+[INFO ] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Loaded sentence transformer model: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for first dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for second dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created similarity index with 16325 vectors, metric=cosine
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_EmbeddingBlocker.csv
+[INFO ] root -   Pair Completeness: 0.947
+[INFO ] root -   Pair Quality:      0.010
+[INFO ] root -   Reduction Ratio:   0.999971
+[INFO ] root -   True Matches Found: 354/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.992
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999623
+[INFO ] root -   True Matches Found: 371/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.997
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999634
+[INFO ] root -   True Matches Found: 373/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.749
+[INFO ] root -   Pair Quality:      0.009
+[INFO ] root -   Reduction Ratio:   0.999978
+[INFO ] root -   True Matches Found: 284/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.897
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999649
+[INFO ] root -   True Matches Found: 340/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.960
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999725
+[INFO ] root -   True Matches Found: 364/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.021; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:47.826; found 9127 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.012; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:39.497; found 6648 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8762 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	8527	|	97.32%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	169	|	1.93%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	43	|	0.49%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	20	|	0.23%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	2	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6258 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	6020	|	96.20%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	174	|	2.78%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	46	|	0.74%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	13	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	2	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  91
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 2
+[INFO ] root -   False Negatives: 2
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.978
+[INFO ] root -   Recall:    0.978
+[INFO ] root -   F1-Score:  0.978
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  78
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 17
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.886
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.821
+[INFO ] root -   F1-Score:  0.902
+[INFO ] root - Label distribution: 374 positive, 220 negative
+[INFO ] root - Label distribution: 379 positive, 218 negative
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.001; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:46.856; found 9240 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.000; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:36.275; found 7140 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8788 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	8501	|	96.73%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	205	|	2.33%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	55	|	0.63%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	21	|	0.24%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	4	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	2	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6295 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	5805	|	92.22%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	334	|	5.31%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	106	|	1.68%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	25	|	0.40%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	12	|	0.19%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	8	|	0.13%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	2	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  92
+[INFO ] root -   True Negatives:  52
+[INFO ] root -   False Positives: 3
+[INFO ] root -   False Negatives: 1
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.968
+[INFO ] root -   Recall:    0.989
+[INFO ] root -   F1-Score:  0.979
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  84
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 1
+[INFO ] root -   False Negatives: 11
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.919
+[INFO ] root -   Precision: 0.988
+[INFO ] root -   Recall:    0.884
+[INFO ] root -   F1-Score:  0.933
+[INFO ] root - Filtered correspondences: 9240 -> 9240 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 9240 -> 8845 
+[INFO ] root - MaximumBipartiteMatching: 9240 -> 8845 correspondences
+[INFO ] root - MaximumBipartiteMatching: 17980 -> 17690 entities
+[INFO ] root - Filtered correspondences: 7140 -> 7140 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 7140 -> 6449 
+[INFO ] root - MaximumBipartiteMatching: 7140 -> 6449 correspondences
+[INFO ] root - MaximumBipartiteMatching: 13331 -> 12898 entities
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  90
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 2
+[INFO ] root -   False Negatives: 3
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.966
+[INFO ] root -   Precision: 0.978
+[INFO ] root -   Recall:    0.968
+[INFO ] root -   F1-Score:  0.973
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  81
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 1
+[INFO ] root -   False Negatives: 14
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.899
+[INFO ] root -   Precision: 0.988
+[INFO ] root -   Recall:    0.853
+[INFO ] root -   F1-Score:  0.915
+[INFO ] PyDI.fusion.analysis - Analyzed 20 attributes across 3 datasets
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.6
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 42002 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 9863 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 6797 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 27713 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 6813 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 5479 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 99111 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 99111 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.6
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 42002 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 11332 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 5755 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 27713 blocking keys for first dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 8100 blocking keys for second dataset
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - created 5063 blocks from blocking keys
+[INFO ] PyDI.entitymatching.blocking.standard.StandardBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_StandardBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 100770 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created sorted neighbourhood with window size 20
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - created 1 sorted sequence from 100770 records
+[INFO ] PyDI.entitymatching.blocking.sorted_neighbourhood.SortedNeighbourhoodBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_SortedNeighbourhoodBlocker.csv
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Initialized EmbeddingBlocker with sklearn backend, top_k=10, threshold=0.6
+[INFO ] sentence_transformers.SentenceTransformer - Use pytorch device_name: mps
+[INFO ] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Loaded sentence transformer model: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for first dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for second dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created similarity index with 14666 vectors, metric=cosine
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_EmbeddingBlocker.csv
+[INFO ] sentence_transformers.SentenceTransformer - Use pytorch device_name: mps
+[INFO ] sentence_transformers.SentenceTransformer - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Loaded sentence transformer model: sentence-transformers/all-MiniLM-L6-v2
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for first dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created 384d embeddings for second dataset
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - created similarity index with 16325 vectors, metric=cosine
+[INFO ] PyDI.entitymatching.blocking.embedding.EmbeddingBlocker - Debug results written to file: /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/blocking_evaluation/debugResultsBlocking_EmbeddingBlocker.csv
+[INFO ] root -   Pair Completeness: 0.947
+[INFO ] root -   Pair Quality:      0.010
+[INFO ] root -   Reduction Ratio:   0.999971
+[INFO ] root -   True Matches Found: 354/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.979
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999760
+[INFO ] root -   True Matches Found: 366/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.992
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999623
+[INFO ] root -   True Matches Found: 371/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.789
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999644
+[INFO ] root -   True Matches Found: 295/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.997
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999634
+[INFO ] root -   True Matches Found: 373/374
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.749
+[INFO ] root -   Pair Quality:      0.009
+[INFO ] root -   Reduction Ratio:   0.999978
+[INFO ] root -   True Matches Found: 284/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.850
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999829
+[INFO ] root -   True Matches Found: 322/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.897
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999649
+[INFO ] root -   True Matches Found: 340/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.702
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999659
+[INFO ] root -   True Matches Found: 266/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] root -   Pair Completeness: 0.960
+[INFO ] root -   Pair Quality:      0.001
+[INFO ] root -   Reduction Ratio:   0.999725
+[INFO ] root -   True Matches Found: 364/379
+[INFO ] root - Blocking evaluation complete!
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.053; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:45.986; found 20447 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.016; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:38.443; found 18182 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8750 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	6089	|	69.59%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	1199	|	13.70%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	596	|	6.81%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	255	|	2.91%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	193	|	2.21%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	90	|	1.03%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	71	|	0.81%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	50	|	0.57%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	38	|	0.43%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	27	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	28	|	0.32%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	17	|	0.19%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	16	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	9	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	10	|	0.11%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	6	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	6	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	5	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	5	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	5	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		32	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		33	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	3	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		44	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		46	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		51	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		53	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		54	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		56	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		58	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		65	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		66	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		86	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		172	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		199	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		306	|	1	|	0.01%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 4893 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	3047	|	62.27%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	605	|	12.36%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	422	|	8.62%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	203	|	4.15%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	163	|	3.33%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	98	|	2.00%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	59	|	1.21%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	45	|	0.92%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	31	|	0.63%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	21	|	0.43%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	18	|	0.37%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	18	|	0.37%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	17	|	0.35%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	9	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	16	|	0.33%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	14	|	0.29%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	11	|	0.22%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	6	|	0.12%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	8	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	8	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	6	|	0.12%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		24	|	4	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	6	|	0.12%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	4	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	8	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	5	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		34	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		35	|	4	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		36	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		39	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		41	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		43	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		48	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		49	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		50	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		56	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		59	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		60	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		63	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		64	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		71	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		84	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		91	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		112	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		310	|	1	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  93
+[INFO ] root -   True Negatives:  49
+[INFO ] root -   False Positives: 6
+[INFO ] root -   False Negatives: 0
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.959
+[INFO ] root -   Precision: 0.939
+[INFO ] root -   Recall:    1.000
+[INFO ] root -   F1-Score:  0.969
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  91
+[INFO ] root -   True Negatives:  50
+[INFO ] root -   False Positives: 4
+[INFO ] root -   False Negatives: 4
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.946
+[INFO ] root -   Precision: 0.958
+[INFO ] root -   Recall:    0.958
+[INFO ] root -   F1-Score:  0.958
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.025; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:37.531; found 9127 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.012; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:31.313; found 6648 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8762 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	8527	|	97.32%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	169	|	1.93%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	43	|	0.49%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	20	|	0.23%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	2	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6258 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	6020	|	96.20%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	174	|	2.78%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	46	|	0.74%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	13	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	2	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  91
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 2
+[INFO ] root -   False Negatives: 2
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.978
+[INFO ] root -   Recall:    0.978
+[INFO ] root -   F1-Score:  0.978
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  78
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 17
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.886
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.821
+[INFO ] root -   F1-Score:  0.902
+[INFO ] root - Label distribution: 374 positive, 220 negative
+[INFO ] root - Label distribution: 379 positive, 218 negative
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.001; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:44.273; found 9240 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.000; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:35.739; found 7140 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8788 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	8501	|	96.73%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	205	|	2.33%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	55	|	0.63%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	21	|	0.24%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	4	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	2	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6295 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	5805	|	92.22%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	334	|	5.31%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	106	|	1.68%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	25	|	0.40%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	12	|	0.19%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	8	|	0.13%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	2	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  92
+[INFO ] root -   True Negatives:  52
+[INFO ] root -   False Positives: 3
+[INFO ] root -   False Negatives: 1
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.968
+[INFO ] root -   Recall:    0.989
+[INFO ] root -   F1-Score:  0.979
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  84
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 1
+[INFO ] root -   False Negatives: 11
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.919
+[INFO ] root -   Precision: 0.988
+[INFO ] root -   Recall:    0.884
+[INFO ] root -   F1-Score:  0.933
+[INFO ] root - Filtered correspondences: 9240 -> 9240 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 9240 -> 8845 
+[INFO ] root - MaximumBipartiteMatching: 9240 -> 8845 correspondences
+[INFO ] root - MaximumBipartiteMatching: 17980 -> 17690 entities
+[INFO ] root - Filtered correspondences: 7140 -> 7140 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 7140 -> 6449 
+[INFO ] root - MaximumBipartiteMatching: 7140 -> 6449 correspondences
+[INFO ] root - MaximumBipartiteMatching: 13331 -> 12898 entities
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  90
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 1
+[INFO ] root -   False Negatives: 3
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.989
+[INFO ] root -   Recall:    0.968
+[INFO ] root -   F1-Score:  0.978
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  79
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 1
+[INFO ] root -   False Negatives: 16
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.886
+[INFO ] root -   Precision: 0.988
+[INFO ] root -   Recall:    0.832
+[INFO ] root -   F1-Score:  0.903
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.001; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:43.972; found 61166 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.000; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:36.096; found 54402 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6093 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	1703	|	27.95%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	841	|	13.80%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	785	|	12.88%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	588	|	9.65%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	575	|	9.44%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	348	|	5.71%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	313	|	5.14%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	207	|	3.40%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	128	|	2.10%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	112	|	1.84%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	66	|	1.08%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	59	|	0.97%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	52	|	0.85%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	24	|	0.39%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	31	|	0.51%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	26	|	0.43%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	19	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	19	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	11	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	19	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	11	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	12	|	0.20%
+[INFO ] PyDI.entitymatching.evaluation - 		24	|	6	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	6	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	11	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	10	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	12	|	0.20%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	7	|	0.11%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		32	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		33	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		34	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		35	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		36	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		39	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		41	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		42	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		43	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		44	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		45	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		46	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		47	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		48	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		50	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		53	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		55	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		56	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		57	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		58	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		59	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		62	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		65	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		66	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		70	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		71	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		73	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		74	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		80	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		81	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		82	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		89	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		101	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		105	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		107	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		117	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		121	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		124	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		125	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		134	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		139	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		154	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		188	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		189	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		202	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		203	|	1	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 3844 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	2014	|	52.39%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	419	|	10.90%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	341	|	8.87%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	212	|	5.52%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	152	|	3.95%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	116	|	3.02%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	71	|	1.85%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	68	|	1.77%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	45	|	1.17%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	36	|	0.94%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	33	|	0.86%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	40	|	1.04%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	39	|	1.01%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	18	|	0.47%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	12	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	13	|	0.34%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	16	|	0.42%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	10	|	0.26%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	8	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	11	|	0.29%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	7	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	9	|	0.23%
+[INFO ] PyDI.entitymatching.evaluation - 		24	|	6	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	10	|	0.26%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	4	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	6	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	8	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	8	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		32	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		33	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		34	|	6	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		35	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		36	|	7	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		39	|	4	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		41	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		42	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		43	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		44	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		45	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		46	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		47	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		48	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		49	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		50	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		51	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		53	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		54	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		57	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		58	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		59	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		61	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		62	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		63	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		65	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		70	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		74	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		82	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		83	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		84	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		97	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		100	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		105	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		106	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		112	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		113	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		117	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		127	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		129	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		137	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		150	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		157	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		160	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		176	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		179	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		180	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		184	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		203	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		233	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		237	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		254	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		264	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		391	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		483	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		516	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		558	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		720	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		1044	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		1158	|	1	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  93
+[INFO ] root -   True Negatives:  51
+[INFO ] root -   False Positives: 4
+[INFO ] root -   False Negatives: 0
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.959
+[INFO ] root -   Recall:    1.000
+[INFO ] root -   F1-Score:  0.979
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  88
+[INFO ] root -   True Negatives:  52
+[INFO ] root -   False Positives: 2
+[INFO ] root -   False Negatives: 7
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.940
+[INFO ] root -   Precision: 0.978
+[INFO ] root -   Recall:    0.926
+[INFO ] root -   F1-Score:  0.951
+[INFO ] root - Filtered correspondences: 61166 -> 61166 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 61166 -> 12238 
+[INFO ] root - MaximumBipartiteMatching: 61166 -> 12238 correspondences
+[INFO ] root - MaximumBipartiteMatching: 37402 -> 24476 entities
+[INFO ] root - Filtered correspondences: 54402 -> 54402 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 54402 -> 10572 
+[INFO ] root - MaximumBipartiteMatching: 54402 -> 10572 correspondences
+[INFO ] root - MaximumBipartiteMatching: 28503 -> 21144 entities
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  57
+[INFO ] root -   True Negatives:  55
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 36
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.757
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.613
+[INFO ] root -   F1-Score:  0.760
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  54
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 41
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.725
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.568
+[INFO ] root -   F1-Score:  0.725
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.038; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:48.699; found 20447 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.017; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:39.541; found 18182 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.025; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:37.669; found 9127 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.014; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:31.209; found 6648 correspondences.
+[INFO ] root - Label distribution: 374 positive, 220 negative
+[INFO ] root - Label distribution: 379 positive, 218 negative
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.002; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:45.087; found 9240 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.000; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:36.429; found 7140 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.001; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:45.758; found 61166 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.001; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:36.785; found 54402 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.034; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:45.186; found 20447 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.015; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:37.373; found 18182 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8750 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	6089	|	69.59%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	1199	|	13.70%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	596	|	6.81%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	255	|	2.91%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	193	|	2.21%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	90	|	1.03%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	71	|	0.81%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	50	|	0.57%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	38	|	0.43%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	27	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	28	|	0.32%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	17	|	0.19%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	16	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	9	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	10	|	0.11%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	6	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	6	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	5	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	5	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	5	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		32	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		33	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	3	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		44	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		46	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		51	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		53	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		54	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		56	|	2	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		58	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		65	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		66	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		86	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		172	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		199	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		306	|	1	|	0.01%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 4893 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	3047	|	62.27%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	605	|	12.36%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	422	|	8.62%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	203	|	4.15%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	163	|	3.33%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	98	|	2.00%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	59	|	1.21%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	45	|	0.92%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	31	|	0.63%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	21	|	0.43%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	18	|	0.37%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	18	|	0.37%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	17	|	0.35%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	9	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	16	|	0.33%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	14	|	0.29%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	11	|	0.22%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	6	|	0.12%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	8	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	8	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	6	|	0.12%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		24	|	4	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	6	|	0.12%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	4	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	8	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	5	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		34	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		35	|	4	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		36	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		39	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	2	|	0.04%
+[INFO ] PyDI.entitymatching.evaluation - 		41	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		43	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		48	|	3	|	0.06%
+[INFO ] PyDI.entitymatching.evaluation - 		49	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		50	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		56	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		59	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		60	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		63	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		64	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		71	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		84	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		91	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		112	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		310	|	1	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.037; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:41.978; found 9127 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.014; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:34.206; found 6648 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8762 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	8527	|	97.32%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	169	|	1.93%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	43	|	0.49%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	20	|	0.23%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	2	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6258 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	6020	|	96.20%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	174	|	2.78%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	46	|	0.74%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	13	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	2	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.001; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:46.061; found 9240 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.000; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:35.847; found 7140 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8788 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	8501	|	96.73%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	205	|	2.33%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	55	|	0.63%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	21	|	0.24%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	4	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	2	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6295 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	5805	|	92.22%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	334	|	5.31%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	106	|	1.68%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	25	|	0.40%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	12	|	0.19%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	8	|	0.13%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	2	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.004; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:44.390; found 61166 correspondences.
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.000; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.ml_based.MLBasedMatcher - Entity Matching finished after 0:00:35.747; found 54402 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6093 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	1703	|	27.95%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	841	|	13.80%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	785	|	12.88%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	588	|	9.65%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	575	|	9.44%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	348	|	5.71%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	313	|	5.14%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	207	|	3.40%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	128	|	2.10%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	112	|	1.84%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	66	|	1.08%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	59	|	0.97%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	52	|	0.85%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	24	|	0.39%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	31	|	0.51%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	26	|	0.43%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	19	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	19	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	11	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	19	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	11	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	12	|	0.20%
+[INFO ] PyDI.entitymatching.evaluation - 		24	|	6	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	6	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	11	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	10	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	12	|	0.20%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	7	|	0.11%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		32	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		33	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		34	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		35	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		36	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		39	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		41	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		42	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		43	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		44	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		45	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		46	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		47	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		48	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		50	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		53	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		55	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		56	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		57	|	3	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		58	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		59	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		62	|	4	|	0.07%
+[INFO ] PyDI.entitymatching.evaluation - 		65	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		66	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		70	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		71	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		73	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		74	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		80	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		81	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		82	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		89	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		101	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		105	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		107	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		117	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		121	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		124	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		125	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		134	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		139	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		154	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		188	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		189	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		202	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		203	|	1	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 3844 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	2014	|	52.39%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	419	|	10.90%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	341	|	8.87%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	212	|	5.52%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	152	|	3.95%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	116	|	3.02%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	71	|	1.85%
+[INFO ] PyDI.entitymatching.evaluation - 		9	|	68	|	1.77%
+[INFO ] PyDI.entitymatching.evaluation - 		10	|	45	|	1.17%
+[INFO ] PyDI.entitymatching.evaluation - 		11	|	36	|	0.94%
+[INFO ] PyDI.entitymatching.evaluation - 		12	|	33	|	0.86%
+[INFO ] PyDI.entitymatching.evaluation - 		13	|	40	|	1.04%
+[INFO ] PyDI.entitymatching.evaluation - 		14	|	39	|	1.01%
+[INFO ] PyDI.entitymatching.evaluation - 		15	|	18	|	0.47%
+[INFO ] PyDI.entitymatching.evaluation - 		16	|	12	|	0.31%
+[INFO ] PyDI.entitymatching.evaluation - 		17	|	13	|	0.34%
+[INFO ] PyDI.entitymatching.evaluation - 		18	|	16	|	0.42%
+[INFO ] PyDI.entitymatching.evaluation - 		19	|	10	|	0.26%
+[INFO ] PyDI.entitymatching.evaluation - 		20	|	8	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		21	|	11	|	0.29%
+[INFO ] PyDI.entitymatching.evaluation - 		22	|	7	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		23	|	9	|	0.23%
+[INFO ] PyDI.entitymatching.evaluation - 		24	|	6	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		25	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		26	|	10	|	0.26%
+[INFO ] PyDI.entitymatching.evaluation - 		27	|	4	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		28	|	6	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		29	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		30	|	8	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		31	|	8	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		32	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		33	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		34	|	6	|	0.16%
+[INFO ] PyDI.entitymatching.evaluation - 		35	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		36	|	7	|	0.18%
+[INFO ] PyDI.entitymatching.evaluation - 		37	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		38	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		39	|	4	|	0.10%
+[INFO ] PyDI.entitymatching.evaluation - 		40	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		41	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		42	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		43	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		44	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		45	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		46	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		47	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		48	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		49	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		50	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		51	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		53	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		54	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		57	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		58	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		59	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		61	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		62	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		63	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		65	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		70	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		74	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		82	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		83	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		84	|	3	|	0.08%
+[INFO ] PyDI.entitymatching.evaluation - 		97	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		100	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		105	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		106	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		112	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		113	|	2	|	0.05%
+[INFO ] PyDI.entitymatching.evaluation - 		117	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		127	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		129	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		137	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		150	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		157	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		160	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		176	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		179	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		180	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		184	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		203	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		233	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		237	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		254	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		264	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		391	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		483	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		516	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		558	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		720	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		1044	|	1	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		1158	|	1	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.044; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:42.443; found 9127 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.014; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:32.844; found 6648 correspondences.
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 8762 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	8527	|	97.32%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	169	|	1.93%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	43	|	0.49%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	20	|	0.23%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	1	|	0.01%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	2	|	0.02%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] PyDI.entitymatching.evaluation - Cluster Size Distribution of 6258 clusters:
+[INFO ] PyDI.entitymatching.evaluation - 	Cluster Size	| Frequency	| Percentage
+[INFO ] PyDI.entitymatching.evaluation - 	──────────────────────────────────────────────────
+[INFO ] PyDI.entitymatching.evaluation - 		2	|	6020	|	96.20%
+[INFO ] PyDI.entitymatching.evaluation - 		3	|	174	|	2.78%
+[INFO ] PyDI.entitymatching.evaluation - 		4	|	46	|	0.74%
+[INFO ] PyDI.entitymatching.evaluation - 		5	|	13	|	0.21%
+[INFO ] PyDI.entitymatching.evaluation - 		6	|	2	|	0.03%
+[INFO ] PyDI.entitymatching.evaluation - 		7	|	1	|	0.02%
+[INFO ] PyDI.entitymatching.evaluation - 		8	|	2	|	0.03%
+[INFO ] root - Cluster size distribution written to /Users/onurcanmemis/Desktop/web-data-integration-team-project/output/cluster_analysis/cluster_size_distribution.csv
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  91
+[INFO ] root -   True Negatives:  53
+[INFO ] root -   False Positives: 2
+[INFO ] root -   False Negatives: 2
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.978
+[INFO ] root -   Recall:    0.978
+[INFO ] root -   F1-Score:  0.978
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  78
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 17
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.886
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.821
+[INFO ] root -   F1-Score:  0.902
+[INFO ] root - Filtered correspondences: 9127 -> 9127 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 9127 -> 8805 
+[INFO ] root - MaximumBipartiteMatching: 9127 -> 8805 correspondences
+[INFO ] root - MaximumBipartiteMatching: 17853 -> 17610 entities
+[INFO ] root - Filtered correspondences: 6648 -> 6648 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 6648 -> 6320 
+[INFO ] root - MaximumBipartiteMatching: 6648 -> 6320 correspondences
+[INFO ] root - MaximumBipartiteMatching: 12846 -> 12640 entities
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  90
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 1
+[INFO ] root -   False Negatives: 3
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.973
+[INFO ] root -   Precision: 0.989
+[INFO ] root -   Recall:    0.968
+[INFO ] root -   F1-Score:  0.978
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  75
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 20
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.866
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.789
+[INFO ] root -   F1-Score:  0.882
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 14666 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 14666 elements after 0:00:0.019; 453398 blocked pairs (reduction ratio: 0.9996339048466698)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:46.525; found 20447 correspondences.
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Starting Entity Matching
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Blocking 84445 x 16325 elements
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Matching 84445 x 16325 elements after 0:00:0.022; 378750 blocked pairs (reduction ratio: 0.9997252577114403)
+[INFO ] PyDI.entitymatching.rule_based.RuleBasedMatcher - Entity Matching finished after 0:00:37.658; found 18182 correspondences.
+[INFO ] root - Filtered correspondences: 20447 -> 20447 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 20447 -> 11314 
+[INFO ] root - MaximumBipartiteMatching: 20447 -> 11314 correspondences
+[INFO ] root - MaximumBipartiteMatching: 26501 -> 22628 entities
+[INFO ] root - Filtered correspondences: 18182 -> 18182 (threshold=0.0)
+[INFO ] root - Maximum bipartite matching: 18182 -> 8000 
+[INFO ] root - MaximumBipartiteMatching: 18182 -> 8000 correspondences
+[INFO ] root - MaximumBipartiteMatching: 18645 -> 16000 entities
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  77
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 1
+[INFO ] root -   False Negatives: 16
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.885
+[INFO ] root -   Precision: 0.987
+[INFO ] root -   Recall:    0.828
+[INFO ] root -   F1-Score:  0.901
+[INFO ] root - Confusion Matrix:
+[INFO ] root -   True Positives:  66
+[INFO ] root -   True Negatives:  54
+[INFO ] root -   False Positives: 0
+[INFO ] root -   False Negatives: 29
+[INFO ] root - Performance Metrics:
+[INFO ] root -   Accuracy:  0.805
+[INFO ] root -   Precision: 1.000
+[INFO ] root -   Recall:    0.695
+[INFO ] root -   F1-Score:  0.820
